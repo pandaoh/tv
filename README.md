@@ -3,6 +3,7 @@
 > [自制 TV](https://github.com/fanmingming/live)
 
 * EPG-`http://diyp.top/diyp/epg.php`、`http://diyp.112114.xyz/`、`https://epg.112114.xyz/`
+* EPG.XML-`https://live.fanmingming.com/e.xml`
 * m3u-`https://live.fanmingming.com/tv/m3u/global.m3u`
 * txt-`https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/global.m3u`
 * Bing每日一图-`https://fanmingming.com/bing`
