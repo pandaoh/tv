@@ -4,9 +4,9 @@
 
 ---
 
-* 安卓：DIYP影音、百川影音、IPTVPro
-* IOS：ntPlayer、APTV、zFuse
-* PC：PotPlayer、黑鸟播放器、Kodi(全平台通用)
+* 安卓 app 分支下载：DIYP影音、百川影音、IPTVPro
+* IOS app 分支下载：ntPlayer、APTV、zFuse
+* PC app 分支下载：PotPlayer、黑鸟播放器、Kodi(全平台通用)
 
 ---
 
