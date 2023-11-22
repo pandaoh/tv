@@ -377,11 +377,11 @@ http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 group-title="测试",ABC新闻
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 group-title="测试",NewsMaxTV
+#EXTINF:-1 group-title="测试",NewsmaxTV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="测试",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="测试",MovieSphere
+#EXTINF:-1 group-title="测试",moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="测试",EdgeSport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
@@ -393,7 +393,7 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="测试",Astrakhan24
 https://streaming.astrakhan.ru/astrakhan24/index.m3u8
-#EXTINF:-1 group-title="测试",СаMаPа
+#EXTINF:-1 group-title="测试",Самара
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="测试",日本QVC
 https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
