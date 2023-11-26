@@ -1,6 +1,4 @@
 HD-电视,#genre#
-上视东方影视,http://maomao.kandiantv.cn/m3u8.php?/migu/617290047
-IPTV经典电影,http://maomao.kandiantv.cn/m3u8.php?/migu/625703337
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 aljazeeraEnglish,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 CCTV1,http://221.0.78.198:1681/hls/10201/index.m3u8
@@ -60,6 +58,7 @@ CCTV15,http://221.2.36.34:8888/newlive/live/hls/17/live.m3u8
 深圳卫视,http://221.2.36.34:8888/newlive/live/hls/28/live.m3u8
 广西卫视,http://221.2.36.34:8888/newlive/live/hls/26/live.m3u8
 云南卫视,http://221.2.36.34:8888/newlive/live/hls/27/live.m3u8
+贵州卫视,http://221.2.36.34:8888/newlive/live/hls/29/live.m3u8
 重庆卫视,http://221.2.36.34:8888/newlive/live/hls/31/live.m3u8
 四川卫视,http://221.2.36.34:8888/newlive/live/hls/32/live.m3u8
 河南卫视,http://221.2.36.34:8888/newlive/live/hls/33/live.m3u8
@@ -130,6 +129,7 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 河源综合频道,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共频道,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 汕头一套综合频道,https://sttv-tsl.cutv.com/lKGXIQa/x2sl9G0.m3u8
+台山电视台,https://stream.tvod.tsbtv.tv/tstv/sd/live.m3u8
 阳江新闻综合频道,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
 阳江公共频道,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8
 无锡新闻综合频道,http://stream.thmz.com/wxtv1/playlist.m3u8
@@ -157,6 +157,7 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 滁州公共频道,http://live.cztv.cc:85/live/ggpd.m3u8
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 温州新闻综合频道,http://live.wzqmt.com/wztv1/playlist.m3u8
+德清新闻综合频道,http://live.yingxi.tv/channel1/playlist.m3u8
 德清文化生活频道,http://live.yingxi.tv/channel2/playlist.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 大连生活频道,http://live.dltv.cn/JzcFkF4/l24J9c0.m3u8
@@ -237,73 +238,20 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 三明二套公共频道,http://stream.smntv.cn/smtv2/sd/live.m3u8
 龙岩新闻综合频道,http://stream.lytv.net.cn/2/sd/live.m3u8
 龙岩公共频道,http://live.lytv.net.cn/ggpd/sd/live.m3u8
-新罗TV频道,http://stream.lyxltv.com/xltv/sd/live.m3u8
-重庆新闻频道,https://sjlivecdn9.cbg.cn/202311251329/app_2/_definst_/ls_3.stream/chunklist.m3u8
 荣昌综合频道,http://183.64.181.25:40023/rongchang01.m3u8
-万州综合频道,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
-万州三峡移民频道,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
-万州影视文艺频道,http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
-万州科教频道,http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
 垫江综合频道,http://125.62.24.185:80/1.m3u8
-邯郸公共频道,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8
-沧州电视台一套,http://czlive.czgd.tv:85/live/xnyt.m3u8
-沧州电视台二套,http://czlive.czgd.tv:85/live/xnet.m3u8
-沧州电视台三套,http://czlive.czgd.tv:85/live/xnst.m3u8
-吉林都市频道,http://stream1.jlntv.cn/dspd/playlist.m3u8
-吉林生活频道,http://stream1.jlntv.cn/shpd/playlist.m3u8
-吉林影视频道,http://stream1.jlntv.cn/yspd/playlist.m3u8
-吉林乡村频道,http://stream1.jlntv.cn/xcpd/playlist.m3u8
-吉林公共新闻频道,http://stream1.jlntv.cn/ggpd/playlist.m3u8
-吉林电视7频道,http://stream1.jlntv.cn/fzpd/playlist.m3u8
-东北戏曲频道,http://stream1.jlntv.cn/dbxq/playlist.m3u8
-吉林家有购物电视购物,http://stream1.jlntv.cn/jygw/playlist.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-延边一套新闻综合频道,http://live.ybtvyun.com/video/s10006-6a5d1439480d/index.m3u8
-延边二套汉语综合频道,http://live.ybtvyun.com/video/s10006-b2a0645a8070/index.m3u8
-南宁新闻综合频道,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-南宁都市生活频道,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-南宁影视娱乐频道,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-南宁公共频道,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
-隆安电视台,http://hls.nntv.cn/nnlive/LATV_A.m3u8
 崇左综合频道,http://111.59.63.32:9901/tsfile/live/1002_1.m3u8
 陕西卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
-延安一套新闻综合频道,http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
-延安二套公共频道,http://live.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
 宁夏卫视,http://111.59.63.32:9901/tsfile/live/1040_1.m3u8
 海口一套综合频道,http://153.0.158.159:16080/live/hktv1.m3u8
 海口二套生活娱乐频道,http://153.0.158.159:16080/live/hktv2.m3u8
 海口三套城乡经济频道,http://153.0.158.159:16080/live/hktv3.m3u8
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
-酒泉综合频道,http://live.todaydunhuang.com:1935/live/live159/500k/tzwj_video.m3u8
-白银综合频道,http://live.bygd.cn/byzh/sd/live.m3u8
-白银公共频道,http://live.bygd.cn/bygg/sd/live.m3u8
-庆阳新闻综合频道,http://stream.gsqytv.com.cn/xwzh/sd/live.m3u8
-庆阳公共频道,http://stream.gsqytv.com.cn/ggpd/sd/live.m3u8
 新疆卫视,http://221.2.36.34:8888/newlive/live/hls/38/live.m3u8
-伊金霍洛旗电视台,https://cms-play.yjhlnews.cn/live/vedio.m3u8
 鄂托克旗电视台,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
-乌兰察布经济生活频道,https://pluslive.wrbtv.cn/wrbtv1/playlist.m3u8
-乌兰察布生活频道,http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
-贵州家有购物,http://stream1.jlntv.cn/jygw/playlist.m3u8
-遵义新闻综合频道,http://pluslive.zunyifb.com/xwpd/playlist.m3u8
-遵义都市频道,http://pluslive.zunyifb.com/dspd/playlist.m3u8
-遵义公共频道,http://pluslive.zunyifb.com/ggpd/playlist.m3u8
-安顺二套公共频道,http://hplayer1.juyun.tv/camera/133635181.m3u8
-安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8
-青海经视频道,http://stream.qhbtv.com/qhsh/sd/live.m3u8
-青海都市频道,http://stream.qhbtv.com/qhds/sd/live.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
 CCTV-1 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-2 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV-3综艺 (1080p),http://183.196.25.171:808/hls/75/index.m3u8
-CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4K超高清,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV-5 (1080p),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5+ (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV-7 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
@@ -314,13 +262,7 @@ CCTV-11戏曲 (1080p),http://183.196.25.171:808/hls/11/index.m3u8
 CCTV-12社会与法制 (1080p),http://183.196.25.171:808/hls/12/index.m3u8
 CCTV-13 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV-14 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV-16奥林匹克,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 CCTV-17农业农村 (1080p),http://183.196.25.171:808/hls/93/index.m3u8
 江苏卫视 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-浙江少儿 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江数码时代 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生休闲 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济生活 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 深圳卫视 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-滁州市广播电视台 新闻综合频道 (1080p),http://live.cztv.cc:85/live/xwpd.m3u8
 
