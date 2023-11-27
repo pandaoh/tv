@@ -1,6 +1,5 @@
 HD-电视,#genre#
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-aljazeeraEnglish,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 CCTV1,http://221.0.78.198:1681/hls/10201/index.m3u8
 CCTV2,http://221.0.78.198:1681/hls/10202/index.m3u8
 CCTV4,http://221.0.78.198:1681/hls/10204/index.m3u8
@@ -93,7 +92,6 @@ CCTV-9 纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 CCTV-10 科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV-11 戏曲,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
 CCTV-13 新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV-14 少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV-15 音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
@@ -169,9 +167,6 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 青州电视台文化旅游频道,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 烟台公共频道,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 烟台影视频道,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
-威海一套新闻综合频道,http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
-威海二套公共频道,http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
-威海三套海洋频道,http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
 聊城公共频道,http://m3u8.channellive.lcbtv.com/nmip-media/channellive/channel101246/playlist.m3u8
 新泰乡村党建频道,http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8
 新泰生活频道,http://live.xtgdw.cn:1935/live/xtsh/playlist.m3u8
@@ -238,8 +233,18 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 三明二套公共频道,http://stream.smntv.cn/smtv2/sd/live.m3u8
 龙岩新闻综合频道,http://stream.lytv.net.cn/2/sd/live.m3u8
 龙岩公共频道,http://live.lytv.net.cn/ggpd/sd/live.m3u8
+新罗TV频道,http://stream.lyxltv.com/xltv/sd/live.m3u8
 荣昌综合频道,http://183.64.181.25:40023/rongchang01.m3u8
+万州综合频道,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
+万州三峡移民频道,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+万州影视文艺频道,http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+万州科教频道,http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
 垫江综合频道,http://125.62.24.185:80/1.m3u8
+邯郸公共频道,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8
+沧州电视台一套,http://czlive.czgd.tv:85/live/xnyt.m3u8
+沧州电视台二套,http://czlive.czgd.tv:85/live/xnet.m3u8
+沧州电视台三套,http://czlive.czgd.tv:85/live/xnst.m3u8
+吉林都市频道,http://stream1.jlntv.cn/dspd/playlist.m3u8
 崇左综合频道,http://111.59.63.32:9901/tsfile/live/1002_1.m3u8
 陕西卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
 宁夏卫视,http://111.59.63.32:9901/tsfile/live/1040_1.m3u8
@@ -254,15 +259,11 @@ CCTV-2 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 CCTV-3综艺 (1080p),http://183.196.25.171:808/hls/75/index.m3u8
 CCTV-5 (1080p),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5+ (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV-7 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV-8 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 CCTV-9 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-10 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV-11戏曲 (1080p),http://183.196.25.171:808/hls/11/index.m3u8
 CCTV-12社会与法制 (1080p),http://183.196.25.171:808/hls/12/index.m3u8
 CCTV-13 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV-14 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV-17农业农村 (1080p),http://183.196.25.171:808/hls/93/index.m3u8
-江苏卫视 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-深圳卫视 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 
