@@ -52917,6 +52917,9 @@
 	<programme channel="爱科学" start="20231130040900 +0800" stop="20231130044800 +0800">
 		<title lang="zh">葛洪医道2</title>
 	</programme>
+	<programme channel="爱科学" start="20231130044800 +0800" stop="20231130050000 +0800">
+		<title lang="zh">实境之旅桂林</title>
+	</programme>
 	<channel id="爱科幻">
 		<display-name lang="zh">爱科幻</display-name>
 	</channel>
@@ -56870,6 +56873,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20231130040800 +0800" stop="20231130044900 +0800">
 		<title lang="zh">远方的家4K 长江行 生态之城——上海</title>
+	</programme>
+	<programme channel="纯享4K" start="20231130050000 +0800" stop="20231130053000 +0800">
+		<title lang="zh">味道4K 原味乡间b7英德篇（3）</title>
 	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
@@ -65940,6 +65946,9 @@
 	<programme channel="黑莓动画" start="20231130042800 +0800" stop="20231130045200 +0800">
 		<title lang="zh">02_机动战士高达SEED</title>
 	</programme>
+	<programme channel="黑莓动画" start="20231130045200 +0800" stop="20231130051600 +0800">
+		<title lang="zh">03_机动战士高达SEED</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67308,6 +67317,9 @@
 	<programme channel="newtv热播精选" start="20231130040700 +0800" stop="20231130045100 +0800">
 		<title lang="zh">08_遍地书香</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20231130045100 +0800" stop="20231130053400 +0800">
+		<title lang="zh">09_遍地书香</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -67433,6 +67445,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20231130040400 +0800" stop="20231130045000 +0800">
 		<title lang="zh">11_擒狼</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20231130045000 +0800" stop="20231130053600 +0800">
+		<title lang="zh">12_擒狼</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
