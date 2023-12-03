@@ -1,12 +1,11 @@
 HD-电视,#genre#
+CCTV6,http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 aljazeeraEnglish,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
-CCTV2,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/877097d2fa-0-0-b7736e6941fd5cb71f45ef9397b68092/index.m3u8
-CCTV3,https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/0df24da9ec-0-0-dca40ddadd2a051ce1a83536d9310820/index.m3u8
 CCTV4,http://58.220.219.14:9901/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
-CCTV12,https://iptv.luas.edu.cn/liverespath/fb84bde1de15cdb0308a7910cebc0497594ae94e/e2d8885f42-0-0-6e1f55986652ba786606a116c5cc0775/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV15,http://gxdl-lhs.8866.org:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://111.20.40.165/PLTV/88888893/224/3221226921/index.m3u8
@@ -14,10 +13,7 @@ CCTV娱乐,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&ext
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 黑龙江卫视,http://122.224.153.162:9901/tsfile/live/0143_1.m3u8?key=txiptv
 吉林卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-山东卫视,https://iptv.luas.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/dd6f0a43db-0-0-63f6f29dcc6843fd6b50323d4bfc8b09/index.m3u8
 山西卫视,http://218.17.196.234:9901/tsfile/live/0118_1.m3u8
-天津卫视,https://iptv.luas.edu.cn/liverespath/41433c450cf4747cf2600adecc560bc90f344182/c10d51d64c-0-0-eb4f25a76a7509a0131dd64742139be4/index.m3u8
-江西卫视,https://iptv.luas.edu.cn/liverespath/5262d7f97311b82a4a460f3b8221e4a7d394c2c0/74d69d122b-0-0-db9e2346ab702f9e87c09d7de7b9d5d0/index.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 河南卫视,http://gxdl-lhs.8866.org:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://218.17.196.234:9901/tsfile/live/1001_1.m3u8
@@ -277,6 +273,7 @@ CETV4空中课堂频道,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/22
 滁州新闻综合频道,http://live.cztv.cc:85/live/xwpd.m3u8
 滁州科教频道,http://live.cztv.cc:85/live/sjpd.m3u8
 滁州公共频道,http://live.cztv.cc:85/live/ggpd.m3u8
+池州公共频道,http://cm.wshls.homecdn.com/live/4abdf.m3u8
 浙江钱江都市频道,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江经视,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江教育科技频道,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
@@ -327,7 +324,6 @@ CETV4空中课堂频道,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/22
 嵊泗新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 北京纪实科教频道,http://120.196.232.20:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226656/1.m3u8
 石景山电视台,http://live.sjsrm.com/bjsjs/sd/live.m3u8
-房山电视台,http://live.funhillrm.com/5/sd/live.m3u8
 山东教育电视台,http://120.196.232.42:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226701/1.m3u8
 成阳电视台,http://pili-live-hls.56.i2863.com/i2863-56/live_56_307317.m3u8
 青州电视台新闻综合频道,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
@@ -406,84 +402,6 @@ CETV4空中课堂频道,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/22
 林州新闻综合频道,http://live.dxhmt.cn:9081/tv/10581-1.m3u8
 内黄新闻综合频道,http://live.dxhmt.cn:9081/tv/10527-1.m3u8
 汤阴新闻综合频道,http://live.dxhmt.cn:9081/tv/10523-1.m3u8
-洛阳一套综合频道,http://wshls.live.migucloud.com/live/3GWXF43U_C0/playlist.m3u8
-洛阳二套科教频道,http://wshls.live.migucloud.com/live/08095QP8_C0/playlist.m3u8
-洛阳三套文旅频道,http://wshls.live.migucloud.com/live/X5LAHM2S_C0/playlist.m3u8
-汝阳综合频道,http://live.dxhmt.cn:9081/tv/10326-1.m3u8
-洛宁综合频道,http://wshls.live.migucloud.com/live/WJ1E4VDQ_C0/playlist.m3u8
-宜阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
-嵩县综合新闻频道,http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8
-新安电视台综合频道,http://tvpull.dxhmt.cn/tv/10323-1.m3u8
-伊川电视台,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
-淇县电视台,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
-浚县电视台,http://live.dxhmt.cn:9081/tv/10621-1.m3u8
-南乐电视台,http://live.dxhmt.cn:9081/tv/10923-1.m3u8
-长垣新闻综合频道,http://live.dxhmt.cn:9081/tv/10728-1.m3u8
-封丘一套新闻综合频道,http://live.dxhmt.cn:9081/tv/10727-1.m3u8
-获嘉新闻综合频道,http://live.dxhmt.cn:9081/tv/10724-1.m3u8
-辉县新闻综合频道,http://live.dxhmt.cn:9081/tv/10782-1.m3u8
-卫辉新闻综合频道,http://live.dxhmt.cn:9081/tv/10781-1.m3u8
-原阳新闻综合频道,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
-焦作新闻综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
-焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
-沁阳新闻综合频道,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
-焦作教育频道,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8
-孟州新闻综合频道,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
-武陟新闻综合频道,http://live.dxhmt.cn:9081/tv/10823-1.m3u8
-灵宝新闻综合频道,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
-渑池新闻综合频道,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
-义马新闻综合频道,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
-开封公共频道,http://live.dxhmt.cn:9081/tv/10200-3.m3u8
-兰考新闻综合频道,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-杞县新闻综合频道,http://live.dxhmt.cn:9081/tv/10221-1.m3u8
-通许新闻综合频道,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
-尉氏新闻综合频道,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
-永城新闻综合频道,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
-永城科教文卫频道,http://live.dxhmt.cn:9081/tv/11481-2.m3u8
-建安新闻综合频道,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
-襄城新闻综合频道,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
-鄢陵新闻综合频道,http://live.dxhmt.cn:9081/tv/11024-1.m3u8
-禹州新闻综合频道,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
-宝丰新闻综合频道,http://live.dxhmt.cn:9081/tv/10421-1.m3u8
-郏县新闻综合频道,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
-鲁山新闻综合频道,http://live.dxhmt.cn:9081/tv/10423-1.m3u8
-汝州新闻综合频道,http://live.dxhmt.cn:9081/tv/10482-1.m3u8
-汝州科教频道,http://tvpull.dxhmt.cn:9081/tv/10482-2.m3u8
-舞钢一套新闻综合频道,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
-叶县电视台一套,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-鹿邑综合频道,http://live.dxhmt.cn:9081/tv/11628-1.m3u8
-项城综合频道,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
-西华综合频道,http://live.dxhmt.cn:9081/tv/11622-1.m3u8
-沈丘新闻综合频道,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
-郸城新闻综合频道,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
-舞阳新闻综合频道,http://live.dxhmt.cn:9081/tv/11121-1.m3u8
-方城一套新闻综合频道,http://live.dxhmt.cn:9081/tv/11322-1.m3u8
-桐柏一套新闻综合频道,http://live.dxhmt.cn:9081/tv/11330-1.m3u8
-唐河一套新闻综合频道,http://live.dxhmt.cn:9081/tv/11328-1.m3u8
-淅川新闻综合频道,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
-新野新闻综合频道,http://live.dxhmt.cn:9081/tv/11329-1.m3u8
-泌阳新闻综合频道,http://live.dxhmt.cn:9081/tv/11726-1.m3u8
-平舆新闻综合频道,http://live.dxhmt.cn:9081/tv/11723-1.m3u8
-上蔡一套新闻综合频道,http://live.dxhmt.cn:9081/tv/11722-1.m3u8
-遂平一套新闻综合频道,http://live.dxhmt.cn:9081/tv/11728-1.m3u8
-新蔡新闻综合频道,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
-西平新闻综合频道,http://live.dxhmt.cn:9081/tv/11721-1.m3u8
-信阳公共频道,https://pili-live-hls.xyrm.tianma3600.com/xyrm/xyggpd.m3u8
-光山新闻综合频道,http://live.dxhmt.cn:9081/tv/11522-1.m3u8
-潢川新闻综合频道,http://live.dxhmt.cn:9081/tv/11526-1.m3u8
-罗山新闻综合频道,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
-商城新闻综合频道,http://live.dxhmt.cn:9081/tv/11524-1.m3u8
-新县新闻综合频道,http://live.dxhmt.cn:9081/tv/11523-1.m3u8
-济源电视台一套,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
-十堰新闻综合频道,https://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-十堰经济旅游频道,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
-荆门新闻频道,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-荆门公共频道,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
-荆门教育频道,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-三明一套新闻综合频道,http://stream.smntv.cn/smtv1/sd/live.m3u8
-三明二套公共频道,http://stream.smntv.cn/smtv2/sd/live.m3u8
-龙岩新闻综合频道,http://stream.lytv.net.cn/2/sd/live.m3u8
-龙岩公共频道,http://live.lytv.net.cn/ggpd/sd/live.m3u8
 荣昌综合频道,http://183.64.181.25:40023/rongchang01.m3u8
 垫江综合频道,http://125.62.24.185:80/1.m3u8
 崇左综合频道,http://111.59.63.32:9901/tsfile/live/1002_1.m3u8
@@ -495,4 +413,15 @@ CETV4空中课堂频道,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/22
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
 新疆卫视,http://221.2.36.34:8888/newlive/live/hls/38/live.m3u8
 内蒙古卫视,http://120.196.232.39:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226685/1.m3u8
+CCTV-1 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV-2 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV-3综艺 (1080p),http://183.196.25.171:808/hls/75/index.m3u8
+CCTV-5 (1080p),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-8 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+CCTV-9 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV-10 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV-11戏曲 (1080p),http://183.196.25.171:808/hls/11/index.m3u8
+CCTV-12社会与法制 (1080p),http://183.196.25.171:808/hls/12/index.m3u8
+CCTV-13 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV-17农业农村 (1080p),http://183.196.25.171:808/hls/93/index.m3u8
 
