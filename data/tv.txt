@@ -1,6 +1,5 @@
 HD-电视,#genre#
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-FoxNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 aljazeeraEnglish,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 RTNEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
@@ -27,6 +26,7 @@ CCTV娱乐,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&ext
 海南卫视,http://livelyws.chinamcache.com/lyws/zb01.m3u8
 四川卫视,http://218.17.196.234:9901/tsfile/live/0123_1.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
+内蒙古卫视,http://222.175.159.226:808/hls/202366/index.m3u8
 凤凰卫视,http://113.117.74.28:8081/hls/37/index.m3u8
 CCTV1,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv01zh
 CCTV2,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv02jj
@@ -160,6 +160,7 @@ CCTV-3 综艺,http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/32212267
 CCTV-4 中文国际,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV-6 电影,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
 CCTV-8 电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 CCTV-9 纪录,http://120.196.232.36:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8
 CCTV-10 科教,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
@@ -202,6 +203,7 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 四川卫视,http://221.2.36.34:8888/newlive/live/hls/32/live.m3u8
 新疆卫视,http://221.2.36.34:8888/newlive/live/hls/38/live.m3u8
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
+海南卫视,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CETV1中国教育电视台一套,http://120.196.232.24:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m3u8
@@ -258,9 +260,8 @@ CETV4空中课堂频道,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/22
 泰州二套经济生活频道,http://stream1.mytaizhou.net/jjsh/playlist.m3u8
 泰州三套影视娱乐频道,http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=9a31be2c1701567132
 姜堰新闻综合频道,https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
-扬州新闻频道,http://cm-wshls.homecdn.com/live/8bb.m3u8
+扬州城市频道,http://cm-wshls.homecdn.com/live/8bd.m3u8
 高邮一套新闻综合频道,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
-镇江二套社会民生频道,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 扬中电视台新闻频道,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8
 扬中党建民生频道,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/yzdj.m3u8
 安徽影视频道,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
@@ -275,7 +276,6 @@ CETV4空中课堂频道,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/22
 滁州新闻综合频道,http://live.cztv.cc:85/live/xwpd.m3u8
 滁州科教频道,http://live.cztv.cc:85/live/sjpd.m3u8
 滁州公共频道,http://live.cztv.cc:85/live/ggpd.m3u8
-池州公共频道,http://cm.wshls.homecdn.com/live/4abdf.m3u8
 浙江钱江都市频道,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江经视,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江教育科技频道,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
@@ -285,26 +285,6 @@ CETV4空中课堂频道,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/22
 浙江电视台少儿频道,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 留学世界,http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
 浙江国际频道,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-萧山综合频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-余杭新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
-余杭未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-临平新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
-象山电视台新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-余姚新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-余姚姚江文化频道,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-温州新闻综合频道,http://live.wzqmt.com/wztv1/playlist.m3u8
-文成新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-苍南新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
-永嘉新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
-绍兴文化影视频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-绍兴电视台公共频道,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-绍兴新闻综合频道,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-新昌新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-上虞新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-上虞文化影视频道,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-上虞新商都频道,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-嵊州新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 北京纪实科教频道,http://120.196.232.20:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226656/1.m3u8
 山东教育电视台,http://120.196.232.42:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226701/1.m3u8
 上海纪实人文频道,http://120.196.232.57:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
