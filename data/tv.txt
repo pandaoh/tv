@@ -21,6 +21,7 @@ CCTV8K-50FPS,http://159.75.85.63:8654/xx8k50fps.php
 欢笑剧场4k银河源,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV4K-25P-HLG源,http://159.75.85.63:5679/cctv4k.php
 虎牙4K王者荣耀,http://159.75.85.63:35455/huya/wzgxs1
+虎牙魔兽世界4K,http://159.75.85.63:35455/huya/shangdi
 虎牙战地五4K,http://159.75.85.63:35455/huya/28260962
 斗鱼4K激战2,http://159.75.85.63:35455/douyu/3916618
 吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
@@ -50,10 +51,19 @@ CCTV4K-25P-HLG源,http://159.75.85.63:5679/cctv4k.php
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+翡翠台,https://live.astradamy.com/tvbfc/index.m3u8
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+GOODTV旅行,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+GOODTV经典音乐河,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
+香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+法·24台,http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 CCTV4,http://58.220.219.14:9901/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
+CCTV6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
 山西卫视,http://218.17.196.234:9901/tsfile/live/0118_1.m3u8
 广东体育,http://218.17.196.234:9901/tsfile/live/1001_1.m3u8
 四川卫视,http://218.17.196.234:9901/tsfile/live/0123_1.m3u8
@@ -149,6 +159,7 @@ CCTV-4 中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890
 CCTV-5 体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5+ 体育赛事,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV-6 电影,http://1.195.111.251:11190/tsfile/live/0006_1.m3u8
+CCTV-7 国防军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
 CCTV-8 电视剧,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
 CCTV-9 纪录,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-10 科教,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8
@@ -203,11 +214,15 @@ CCTV-1 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 CCTV-2 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV-3综艺 (1080p),http://183.196.25.171:808/hls/75/index.m3u8
 CCTV-5 (1080p),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-7 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV-8 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 CCTV-9 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-10 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV-11戏曲 (1080p),http://183.196.25.171:808/hls/11/index.m3u8
 CCTV-12社会与法制 (1080p),http://183.196.25.171:808/hls/12/index.m3u8
 CCTV-13 (1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV-14 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV-17农业农村 (1080p),http://183.196.25.171:808/hls/93/index.m3u8
+江苏卫视 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+深圳卫视 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 
