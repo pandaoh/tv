@@ -10,7 +10,7 @@
 	<meta name="description" content="TVBox - All content is for learning only, please do not use it for illegal purposes." />
 	<meta name="keywords" content="go,git,self-hosted,gitea">
 	<meta name="referrer" content="no-referrer" />
-	<meta name="_csrf" content="G7py80I8D1GqqzRgV0Q_Xg8juwg6MTcwMjk0OTg5MzA3Njg4OTU0Mw" />
+	<meta name="_csrf" content="swn268a_Jl6JHWfjP4iazqf7VaY6MTcwMjk1Mjg2MDY0MDk1ODY3NA" />
 	<meta name="_suburl" content="" />
 	
 	
@@ -22,7 +22,7 @@
 			AppSubUrl: '',
 			StaticUrlPrefix: '',
 			UseServiceWorker:  true ,
-			csrf: 'G7py80I8D1GqqzRgV0Q_Xg8juwg6MTcwMjk0OTg5MzA3Njg4OTU0Mw',
+			csrf: 'swn268a_Jl6JHWfjP4iazqf7VaY6MTcwMjk1Mjg2MDY0MDk1ODY3NA',
 			HighlightJS: false,
 			SimpleMDE: false,
 			Tribute: false,
