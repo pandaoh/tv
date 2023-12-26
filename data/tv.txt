@@ -16,6 +16,7 @@ CCTV4,http://219.140.56.34:3333/tsfile/live/1004_1.m3u8
 BTV纪实科教-8KSDR源,http://159.75.85.63:6798
 CCTV8K,http://159.75.85.63:8765/xxtv8k.php
 CCTV8K-50FPS,http://159.75.85.63:8654/xx8k50fps.php
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 欢笑剧场4k银河源,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 CCTV4K-25P-HLG源,http://159.75.85.63:5679/cctv4k.php
@@ -25,6 +26,9 @@ CCTV16-4K-SDR源,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 虎牙魔兽世界4K,http://159.75.85.63:35455/huya/shangdi
 虎牙战地五4K,http://159.75.85.63:35455/huya/28260962
 斗鱼4K激战2,http://159.75.85.63:35455/douyu/3916618
+吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
+晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
+晋中综合,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
@@ -57,6 +61,7 @@ TVB,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 山西卫视,http://218.17.196.234:9901/tsfile/live/0118_1.m3u8
 广东体育,http://218.17.196.234:9901/tsfile/live/1001_1.m3u8
 四川卫视,http://218.17.196.234:9901/tsfile/live/0123_1.m3u8
+内蒙古卫视,http://222.175.159.226:808/hls/202366/index.m3u8
 凤凰卫视,http://113.117.74.28:8081/hls/37/index.m3u8
 CCTV1,http://221.0.78.198:1681/hls/10201/index.m3u8
 CCTV2,http://221.0.78.198:1681/hls/10202/index.m3u8
@@ -70,7 +75,6 @@ CCTV12,http://221.0.78.198:1681/hls/10212/index.m3u8
 CCTV13,http://221.0.78.198:1681/hls/10213/index.m3u8
 CCTV14,http://221.0.78.198:1681/hls/10214/index.m3u8
 CCTV15,http://221.0.78.198:1681/hls/10215/index.m3u8
-CCTV17,http://221.0.78.198:1681/hls/10289/index.m3u8
 CCTV9,http://221.2.36.34:8888/newlive/live/hls/11/live.m3u8
 CCTV10,http://221.2.36.34:8888/newlive/live/hls/12/live.m3u8
 CCTV11,http://221.2.36.34:8888/newlive/live/hls/13/live.m3u8
@@ -140,43 +144,49 @@ CCTV15,http://221.2.36.34:8888/newlive/live/hls/17/live.m3u8
 山东教育,http://221.2.36.34:8888/newlive/live/hls/52/live.m3u8
 济南新闻综合高清,http://221.0.78.198:1681/hls/10279/index.m3u8
 济南教育高清,http://221.0.78.198:1681/hls/10286/index.m3u8
+CCTV-1 综合,http://60.255.120.30:89/live2/live2.m3u8
+CCTV-2 财经,http://221.213.43.82:8888/newlive/live/hls/3/live.m3u8
 CCTV-3 综艺,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV-7 国防军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV-8 电视剧,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
-CCTV-10 科教,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8
+CCTV-4 中文国际,http://221.213.43.82:8888/newlive/live/hls/5/live.m3u8
+CCTV-5+ 体育赛事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV-7 国防军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV-8 电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
+CCTV-9 纪录,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV-10 科教,http://221.213.43.82:8888/newlive/live/hls/12/live.m3u8
 CCTV-11 戏曲,http://221.213.43.82:8888/newlive/live/hls/13/live.m3u8
-CCTV-14 少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV-12 社会与法,http://221.213.43.82:8888/newlive/live/hls/14/live.m3u8
+CCTV-14 少儿,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
+CCTV-15 音乐,http://221.213.43.82:8888/newlive/live/hls/17/live.m3u8
 CCTV-17 农业农村,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
-东方卫视,http://221.2.36.34:8888/newlive/live/hls/20/live.m3u8
+北京卫视,http://111.59.63.32:9901/tsfile/live/1030_1.m3u8
+东方卫视,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8
 天津卫视,http://221.213.43.82:8888/newlive/live/hls/42/live.m3u8
-吉林卫视,http://221.213.43.82:8888/newlive/live/hls/35/live.m3u8
+重庆卫视,http://221.2.36.34:8888/newlive/live/hls/31/live.m3u8
+黑龙江卫视,http://221.213.43.82:8888/newlive/live/hls/44/live.m3u8
 辽宁卫视,http://221.2.36.34:8888/newlive/live/hls/43/live.m3u8
 内蒙古卫视,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
 宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
 青海卫视,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8
-陕西卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
 河北卫视,http://221.2.36.34:8888/newlive/live/hls/46/live.m3u8
 山西卫视,http://221.213.43.82:8888/newlive/live/hls/48/live.m3u8
-山东卫视,http://221.2.36.34:8888/newlive/live/hls/30/live.m3u8
-安徽卫视,http://221.2.36.34:8888/newlive/live/hls/25/live.m3u8
-河南卫视,http://221.2.36.34:8888/newlive/live/hls/33/live.m3u8
-湖北卫视,http://221.2.36.34:8888/newlive/live/hls/34/live.m3u8
-湖南卫视,http://221.213.43.82:8888/newlive/live/hls/23/live.m3u8
-江西卫视,http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8
+山东卫视,http://221.213.43.82:8888/newlive/live/hls/30/live.m3u8
+安徽卫视,http://221.213.43.82:8888/newlive/live/hls/25/live.m3u8
+湖北卫视,http://221.213.43.82:8888/newlive/live/hls/34/live.m3u8
+湖南卫视,http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
+江西卫视,http://221.213.43.82:8888/newlive/live/hls/46/live.m3u8
 江苏卫视,http://221.2.36.34:8888/newlive/live/hls/22/live.m3u8
-广东卫视,http://111.59.63.32:9901/tsfile/live/1032_1.m3u8
+东南卫视,http://221.2.36.34:8888/newlive/live/hls/44/live.m3u8
+广东卫视,http://221.2.36.34:8888/newlive/live/hls/21/live.m3u8
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-广西卫视,http://221.213.43.82:8888/newlive/live/hls/26/live.m3u8
-云南卫视,http://221.213.43.82:8888/newlive/live/hls/27/live.m3u8
+广西卫视,http://221.2.36.34:8888/newlive/live/hls/26/live.m3u8
 贵州卫视,http://111.59.63.32:9901/tsfile/live/1036_1.m3u8
 四川卫视,http://221.213.43.82:8888/newlive/live/hls/32/live.m3u8
-新疆卫视,http://111.59.63.32:9901/tsfile/live/1039_1.m3u8
+新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
 海南卫视,http://221.2.36.34:8888/newlive/live/hls/47/live.m3u8
-湖南卫视,http://221.213.43.82:8888/newlive/live/hls/23/live.m3u8
-安徽经济生活频道,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
+湖南卫视,http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
+安徽影视频道,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 荣昌综合频道,http://183.64.181.25:40023/rongchang01.m3u8
-万州综合频道,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
 崇左综合频道,http://111.59.63.32:9901/tsfile/live/1002_1.m3u8
 陕西卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
 宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
@@ -184,8 +194,9 @@ CCTV-17 农业农村,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 海口二套生活娱乐频道,http://153.0.158.159:16080/live/hktv2.m3u8
 海口三套城乡经济频道,http://153.0.158.159:16080/live/hktv3.m3u8
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
-新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
-内蒙古卫视,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
+新疆卫视,http://111.59.63.32:9901/tsfile/live/1039_1.m3u8
+内蒙古卫视,http://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
+凤凰中文,http://113.117.74.17:8081/hls/37/index.m3u8
 CCTV-7 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV-14 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 TVBS Asia (1080p),http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
