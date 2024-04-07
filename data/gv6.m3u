@@ -6,11 +6,11 @@ http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://[2409:8087:7000:20::204]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://[2409:8087:7000:20::203]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
@@ -261,56 +261,92 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-name="newtv欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV欢乐剧场.png" group-title="NewTV系列",欢乐剧场
 http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:0,MyCamTV Teen Girls     
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:0,MyCamTV MILF
+http://live.mycamtv.com/milf.m3u8
+#EXTINF:0,MyCamTV Young Girls
+http://live.mycamtv.com/young.m3u8
+#EXTINF:0,MyCamTV Mature
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:0,MyCamTV Arab Girls
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:0,MyCamTV Ebony Girls
+http://live.mycamtv.com/ebony.m3u8
+#EXTINF:0,MyCamTV Asian Girls
+http://live.mycamtv.com/asian.m3u8
+#EXTINF:0,MyCamTV Brunette Girls
+http://live.mycamtv.com/brunette.m3u8
+#EXTINF:0,MyCamTV Latina Girls
+http://live.mycamtv.com/latina.m3u8
+#EXTINF:0,MyCamTV White Girls
+http://live.mycamtv.com/white.m3u8
+#EXTINF:0,MyCamTV Blonde Girls
+http://live.mycamtv.com/blonde.m3u8
+#EXTINF:0,MyCamTV Anal
+http://live.mycamtv.com/anal.m3u8
+#EXTINF:0,MyCamTV Big Ass Girls
+http://live.mycamtv.com/bigass.m3u8
+#EXTINF:0,MyCamTV Girls Squirt
+http://live.mycamtv.com/squirt.m3u8
+#EXTINF:0,MyCamTV Big Tits Girls
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:0,MyCamTV Skinny Girls
+http://live.mycamtv.com/skinny.m3u8
+#EXTINF:0,MyCamTV Medium Girls
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:0,MyCamTV Blowjob
+http://live.mycamtv.com/blowjob.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Live Cams
-http://live.adultiptv.net/livecams.m3u8
+http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",MILF
-http://live.adultiptv.net/milf.m3u8
+http://cdn.adultiptv.net/milf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Big Dick
-http://live.adultiptv.net/bigdick.m3u8
+http://cdn.adultiptv.net/bigdick.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Big Tits" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Big Tits
-http://live.adultiptv.net/bigtits.m3u8
+http://cdn.adultiptv.net/bigtits.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fetish" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Fetish
-http://live.adultiptv.net/fetish.m3u8
+http://cdn.adultiptv.net/fetish.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Pornstar
-http://live.adultiptv.net/pornstar.m3u8
+http://cdn.adultiptv.net/pornstar.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Big Ass" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Big Ass
-http://live.adultiptv.net/bigass.m3u8
+http://cdn.adultiptv.net/bigass.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Interracial" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Interracial
-http://live.adultiptv.net/interracial.m3u8
+http://cdn.adultiptv.net/interracial.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Latina
-http://live.adultiptv.net/latina.m3u8
+http://cdn.adultiptv.net/latina.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",POV
-http://live.adultiptv.net/pov.m3u8
+http://cdn.adultiptv.net/pov.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blowjob" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Blowjob
-http://live.adultiptv.net/blowjob.m3u8
+http://cdn.adultiptv.net/blowjob.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Teen
-http://live.adultiptv.net/teen.m3u8
+http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hardcore" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Hardcore
-http://live.adultiptv.net/hardcore.m3u8
+http://cdn.adultiptv.net/hardcore.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cuckold" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Cuckold
-http://live.adultiptv.net/cuckold.m3u8
+http://cdn.adultiptv.net/cuckold.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Threesome
-http://live.adultiptv.net/threesome.m3u8
+http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Russian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Russian
-http://live.adultiptv.net/russian.m3u8
+http://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lesbian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Lesbian
-http://live.adultiptv.net/lesbian.m3u8
+http://cdn.adultiptv.net/lesbian.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Rough
-http://live.adultiptv.net/rough.m3u8
+http://cdn.adultiptv.net/rough.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Gangbang
-http://live.adultiptv.net/gangbang.m3u8
+http://cdn.adultiptv.net/gangbang.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Anal
-http://live.adultiptv.net/anal.m3u8
+http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Compilation
-http://live.adultiptv.net/compilation.m3u8
+http://cdn.adultiptv.net/compilation.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Brunette
-http://live.adultiptv.net/brunette.m3u8
+http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Blonde
-http://live.adultiptv.net/blonde.m3u8
+http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Gay
-http://live.adultiptv.net/gay.m3u8
+http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Asian
-http://live.adultiptv.net/asian.m3u8
+http://cdn.adultiptv.net/asian.m3u8
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="兔子先生",成人视频高中生上門援交/TZ-083
 https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/y9/59/a0/bs/a62b1101041b48be89ee2582ef60a323.m3u8?
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="兔子先生",萬聖節緊急企劃/成人视频金蓮領我回家/TZ-030
