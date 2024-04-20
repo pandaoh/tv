@@ -78,6 +78,9 @@
 	<programme channel="4K综艺" start="20240420120900 +0800" stop="20240420133100 +0800">
 		<title lang="zh">亲爱的客栈第三季20191122</title>
 	</programme>
+	<programme channel="4K综艺" start="20240420133100 +0800" stop="20240420135200 +0800">
+		<title lang="zh">少年说听你说20180625</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -30300,6 +30303,9 @@
 	<programme channel="咪咕综合体育" start="20240420123000 +0800" stop="20240420130900 +0800">
 		<title lang="zh">2024WTT仁川冠军赛女单半决赛回放：孙颖莎4-0王艺迪（周雨）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240420130900 +0800" stop="20240420134900 +0800">
+		<title lang="zh">2024WTT仁川冠军赛女单决赛回放：孙颖莎4-0王曼昱（周雨）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -30323,6 +30329,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240420112400 +0800" stop="20240420133300 +0800">
 		<title lang="zh">23/24赛季英超第33轮全场回放：切尔西6:0埃弗顿（刘焕、徐阳）（50帧原画）</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240420133300 +0800" stop="20240420162100 +0800">
+		<title lang="zh">23/24赛季德甲第28轮全场回放：海登海姆3:2拜仁慕尼黑（50帧原画）</title>
 	</programme>
 	<channel id="哈尔滨娱乐">
 		<display-name lang="zh">哈尔滨娱乐</display-name>
@@ -54546,17 +54555,7 @@
 	<programme channel="湖南教育电视台" start="20240420140000 +0800" stop="20240420141500 +0800">
 		<title lang="zh">喜文乐见</title>
 	</programme>
-	<programme channel="湖南教育电视台" start="20240420141500 +0800" stop="20240420150000 +0800">
-		<title lang="zh">七日生(12)</title>
-	</programme>
-	<programme channel="湖南教育电视台" start="20240420150000 +0800" stop="20240420162000 +0800">
-		<title lang="zh">七日生(13)</title>
-	</programme>
-	<programme channel="湖南教育电视台" start="20240420162000 +0800" stop="20240420174000 +0800">
-		<title lang="zh">七日生(14)</title>
-	</programme>
-	<programme channel="湖南教育电视台" start="20240420174000 +0800" stop="20240420180000 +0800">
-		<title lang="zh">卡通来了</title>
+	<program/title>
 	</programme>
 	<programme channel="湖南教育电视台" start="20240420180000 +0800" stop="20240420183000 +0800">
 		<title lang="zh">好好学习</title>
@@ -60365,6 +60364,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20240420120300 +0800" stop="20240420124400 +0800">
 		<title lang="zh">远方的家4K 长江行 金沙江：探秘香格里拉</title>
+	</programme>
+	<programme channel="纯享4K" start="20240420124400 +0800" stop="20240420132600 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江水润丽江</title>
 	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
@@ -72183,6 +72185,9 @@
 	<programme channel="黑莓动画" start="20240420122700 +0800" stop="20240420123400 +0800">
 		<title lang="zh">50_嗨道奇第2季中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240420124100 +0800" stop="20240420124800 +0800">
+		<title lang="zh">52_嗨道奇第2季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73482,6 +73487,9 @@
 	<programme channel="newtv超级体育" start="20240420120000 +0800" stop="20240420123500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240420123500 +0800" stop="20240420125500 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -73571,6 +73579,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240420120500 +0800" stop="20240420124600 +0800">
 		<title lang="zh">14_破冰行动</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240420124600 +0800" stop="20240420132800 +0800">
+		<title lang="zh">15_破冰行动</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -73694,6 +73705,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240420121500 +0800" stop="20240420124200 +0800">
 		<title lang="zh">武汉：各大夜市一到夜里就摩肩接踵 排队腿抽筋也不能放过两种鱼</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240420124200 +0800" stop="20240420131000 +0800">
+		<title lang="zh">重庆：华灯初上便开始了一天最动感时刻 撬开味蕾的何止火锅</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -73934,6 +73948,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240420115900 +0800" stop="20240420124600 +0800">
 		<title lang="zh">32_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240420124600 +0800" stop="20240420133200 +0800">
+		<title lang="zh">33_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -74214,6 +74231,9 @@
 	<programme channel="newtv炫舞未来" start="20240420111600 +0800" stop="20240420123300 +0800">
 		<title lang="zh">艾岩分享自己初舞台的原创 唱给曾经的她（20240330）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240420123300 +0800" stop="20240420131100 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -74261,6 +74281,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240420120000 +0800" stop="20240420123700 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240420123700 +0800" stop="20240420141300 +0800">
+		<title lang="zh">跑调天后</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
