@@ -124,7 +124,6 @@ IPTV经典电影,http://192.168.123.1:23234/rtp/239.3.1.195:9024
 兵团卫视,http://192.168.123.1:23234/rtp/239.3.1.144:4120
 厦门卫视,http://192.168.123.1:23234/rtp/239.3.1.143:4120
 四川卫视,http://192.168.123.1:23234/rtp/239.3.1.29:8288
-南方卫视,http://192.168.123.1:23234/rtp/239.3.1.161:8001
 宁夏卫视,http://192.168.123.1:23234/rtp/239.3.1.46:8124
 山西卫视,http://192.168.123.1:23234/rtp/239.3.1.42:8172
 广西卫视,http://192.168.123.1:23234/rtp/239.3.1.39:8300
@@ -303,6 +302,7 @@ BTV冬奥纪实,https://stream1.freetv.fun/6eebc30a6998223c3aa2fa75ee7ab047f0fda
 BTV卡酷少儿,https://stream1.freetv.fun/f43532eb8ea318f0631dba7699d1b2c2daa154b964aed6aefd92b7faaa4cdd75.ctv
 CCTV-E,https://stream1.freetv.fun/ddd5b427db5db2b4b9f71b8efa5f5c4311c40644553f5b584ffcf7ec138327b8.m3u8
 CCTV-戏曲,https://stream1.freetv.fun/3c5720a09d1fa7eb4a40e5c37bbf4e65308d5b767513a24d51aa59dd090e385a.m3u8
+CCTV1,https://stream1.freetv.fun/df7cf71b3e02015b9029ac087b3eec56fde92fd81d162962570629faec293037.m3u8
 CCTV13,https://stream1.freetv.fun/1a2df1752f960278e39282ad18ad156ea6fe2ac8a7e9c79a366c9f26a6fc8869.m3u8
 CCTV4 FHD,https://stream1.freetv.fun/392c8cd9eca9ef16356e90dbcfb434102a220706c1462d13e3172982d4fab7a1.m3u8
 CCTV4中文国际欧洲,https://stream1.freetv.fun/5ecf26f2e60ac62579cd196934377718114f8d8a41503e8354c446c72f1b09b7.m3u8
@@ -461,9 +461,7 @@ V音乐,https://stream1.freetv.fun/7f2dd8088e13b609b4d52c7a1db43f1219bc5fb3d17c1
 家庭影院4套,https://stream1.freetv.fun/03f67d0e0fa947765e1aec78406a6a085ee9f3b4bb2d4f6c6947dd70a6c40296.ctv
 宁夏公共,https://stream1.freetv.fun/9831c9bb9138784a97ecf8250101bb35a27c736df2e5d5c0b640e349168ccc17.m3u8
 宁夏卫视,https://stream1.freetv.fun/c3a22585493b5fbb62ab4b873bbf60ce767e779781bf178117fcf0918e2de201.m3u8
-宁波少儿,https://stream1.freetv.fun/99635572463f7dbac1948c91c9260e02f77f17a58dfc40af2bd0d153854fe6fc.ctv
 宁波影视,https://stream1.freetv.fun/72d712636af7184eeb475acf75375aaa93a725ef1fe089296a4f78d24aca7b26.ctv
-宁波新闻,https://stream1.freetv.fun/255ab5521d33751bab4bcc0875c1ff67e7ed38c8da460fc7c0fdb0f5d1a9b8d2.ctv
 宁波经济生活,https://stream1.freetv.fun/91aa26e5f08c654b7d2ea59dbfa50d5d5b4bfd4cdd7cbde4eae417575f18f510.m3u8
 宁波都市文体,https://stream1.freetv.fun/6671b17f4881869a201a4de1a31dc1d830e791a68195b5235db0274f87b89599.ctv
 山东少儿,https://stream1.freetv.fun/09d8aa7047f0ae54ef7182d600bf26e3ca3e36cdd5089730b0421257d3640c8c.m3u8
