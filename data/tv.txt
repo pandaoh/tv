@@ -304,6 +304,7 @@ CCTV-E,https://stream1.freetv.fun/879e5711563465069616775f329a9231f38887c8146e7e
 CCTV4 FHD,https://stream1.freetv.fun/be80c55475d669b20f38069238796f06e5e61e7eb85cd79c1fb7a4971977aacb.m3u8
 CCTV4中文国际欧洲,https://stream1.freetv.fun/b52036a96ef70a56f316bcf39390fb09543ef28c1f80b051d8d05255ace6bce5.m3u8
 CCTV4中文国际美洲,https://stream1.freetv.fun/023d797cfd30a8db9a44d7035ae9a25794d83f1b00ac6017c708ceb4871194b6.m3u8
+CCTV5(h265),https://stream1.freetv.fun/e38952ac99520c72833b3fc60ec1552d35fb77a3f2ec8830c77fa3b26639287c.m3u8
 CCTV第一剧场,https://stream1.freetv.fun/31cbe2ad06dc69104322ab8dc32fd094b5bc855f9e9a7f2efbdb34f91a819be0.ctv
 CCTV风云足球,https://stream1.freetv.fun/f5984a4a5c2d0b153f783bfe5878209ce03902d76521ede65c4c52f54d50284b.ctv
 CCTV风云音乐,https://stream1.freetv.fun/3c0da85a843df69df06533da90bd9b0c9afbe023f23142b8fe8612aa3d0a0ce6.ctv
@@ -363,7 +364,6 @@ NBS少儿,https://stream1.freetv.fun/7b369240e011d542225ec2d39a2d746fb66c086f999
 大庆新闻综合,https://stream1.freetv.fun/72078ced53b6a4f440c82744225c37ee6c2a3bf00ad47642a128e82f252474f9.m3u8
 大湾区卫视,https://stream1.freetv.fun/530100dc12484a6e1bc74a557a42b260134a998632ba4a1cafd0339efeb774d8.m3u8
 天津影视,https://stream1.freetv.fun/de734db67c02771bd31d6ab20f6ecf37a82d74b744138c9ea5115408bbee08e9.ctv
-天津新闻,https://stream1.freetv.fun/287143737c0fc2429ad15ece8c9475801235d9129a36213ba67028415e7b6e22.ctv
 天津卫视,https://stream1.freetv.fun/b174433fa74b990a5146d8f6ee46307b62bde3e61df3a44eb8aaa649af3cc6fd.m3u8
 天津体育,https://stream1.freetv.fun/781cb4aa1ff13148306a48c61e8c6c697e71dc782353880edee646ba864b1804.ctv
 如东新闻综合,https://stream1.freetv.fun/43c9c29ffd7ea98ad212c50ca985141fe13dd5608397f3f572141fcdd05ccd3a.m3u8
@@ -581,8 +581,6 @@ NBS少儿,https://stream1.freetv.fun/7b369240e011d542225ec2d39a2d746fb66c086f999
 芜湖公共,https://stream1.freetv.fun/16023d1b07647546374c6b6555c0b4365e988e02d6a0ea2bd880ad0f7df2c96c.ctv
 芜湖新闻综合,https://stream1.freetv.fun/79d67fad0cb0f48d2cb619334c221e618ce8434d2f22dfca65701a966b3b81be.ctv
 芜湖生活,https://stream1.freetv.fun/25ebc0f2443ea2a3460a710a71fe4ce38e3904ee74e78101f71d396e17aab6fe.ctv
-苏州文化生活,https://stream1.freetv.fun/5128f912b0eb158b8ac807e1562ae6e9b48ffd38e72b608a4b2398e820906322.m3u8
-苏州生活资讯,https://stream1.freetv.fun/c408211d1781564a7e71e3cacef67c549058292d67148af96b0075d71d8b6909.m3u8
 兰州新闻综合,https://stream1.freetv.fun/73534dcbce50e3e1dcf470e19df8e01e2824e8c80dd6ef67925b2fd9dd575120.m3u8
 蚌埠新闻,https://stream1.freetv.fun/a70c38e6be2530f792ebc3c9d0a1f756776913b794b9fd21a10a842afbde3136.ctv
 衡水公共,https://stream1.freetv.fun/bc84fb3b67dd2b4a4832613455f49ddad5cec2236ef312d93d506300e9c1a755.ctv
@@ -615,14 +613,14 @@ NBS少儿,https://stream1.freetv.fun/7b369240e011d542225ec2d39a2d746fb66c086f999
 开封影视文化,https://stream1.freetv.fun/c817b2785a751056c51b23f2b26173b0f0bb6aac43c1cd0fe8ef5bf94112e97a.m3u8
 开封新闻综合,https://stream1.freetv.fun/7e313a04ad9bce7036cde740f399b4c0ace760f66a5e6865ebd3807acb146b5d.m3u8
 陕西公共,https://stream1.freetv.fun/0ce9168d00cc4ce4d6b8f46f8469f1b968cb1be93e2961e19d1a6c8bac1114dc.ctv
-陕西影视,https://stream1.freetv.fun/6f441bc5dbe4b63760e0c6007066e0c9ed5fc8634270e280027e4557881503cd.ctv
+陕西影视,https://stream1.freetv.fun/dee6e7e69867183d8ea5663a52babb3037de317200a2d6053c49a8b6735080f6.ctv
 陕西新闻综合,https://stream1.freetv.fun/402b19b10a340d4324332c2a1fcbb98357c2a29b4d0949cf4629cb5f78bb2805.m3u8
 陕西新闻资讯,https://stream1.freetv.fun/312950a17dc7d9cc45dcfe5b27bee12b5b50bb2bbc19d98e07185e74a634d1ca.ctv
 陕西生活,https://stream1.freetv.fun/6ddcdd5dc7a17264b7252fca0b815645a50411adee1a7b0049a49bc578871afb.ctv
 陕西卫视,https://stream1.freetv.fun/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8
-陕西西部电影,https://stream1.freetv.fun/ece7e233926873eb02ea3f6cf87042f8a969f337f275220bc48e0dc0f84dec15.ctv
-陕西都市青春,https://stream1.freetv.fun/5e08ee566d1dbe67b82d119f1501bb5efdd2b14b84ad0b51cde48c08b7c0fb08.ctv
-陕西体育休闲,https://stream1.freetv.fun/71aa69d7cbb40721101a386ba21e8a148c4452d3077a424f91c41eb980c303e8.ctv
+陕西西部电影,https://stream1.freetv.fun/b35ce8a51246ec1809999416faf789589f78e595a5a59fa1de3da22db9993d91.ctv
+陕西都市青春,https://stream1.freetv.fun/7677778cb60164071bee750d9a4cd1832ab639f6612a3a1b1a1db48156d0fa5e.ctv
+陕西体育休闲,https://stream1.freetv.fun/b3a264bce30bcca533af25e0768b8a946f2df5e01f796a52874153873a82008c.ctv
 双鸭山新闻综合,https://stream1.freetv.fun/240b6449b1a2b47c72a90c8a051707821088233fb5a0c228ca8f8ae7d39d2a27.m3u8
 云南少儿,https://stream1.freetv.fun/6e47370cd7175196d886950e6c84a05db180a8c52268e0ca0c319b24d3959a47.m3u8
 云南卫视,https://stream1.freetv.fun/8e20522ff1451cc928501635bcc93064a537c36b910ac91980e23a4e51b509f4.ctv
