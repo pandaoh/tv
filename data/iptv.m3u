@@ -222,9 +222,9 @@ http://124.205.11.242:91/live/BTVXWhd-5M/live.m3u8
 #EXTINF:-1 tvg-name="北京生活" tvg-id="北京生活" tvg-logo="" group-title="地方频道", 北京生活
 http://39.98.201.151:9090/udp/225.1.8.127:8002
 #EXTINF:-1 tvg-name="北京科教" tvg-id="北京科教" tvg-logo="" group-title="地方频道", 北京科教
-http://39.98.201.151:9090/udp/225.1.8.105:8002
+http://106.120.14.74:2333/udp/225.1.8.105:8002
 #EXTINF:-1 tvg-name="北京财经" tvg-id="北京财经" tvg-logo="" group-title="地方频道", 北京财经
-http://39.98.201.151:9090/udp/225.1.8.106:8002
+http://106.120.14.74:2333/udp/225.1.8.106:8002
 #EXTINF:-1 tvg-name="北京青年" tvg-id="北京青年" tvg-logo="" group-title="地方频道", 北京青年
 http://39.98.201.151:9090/udp/225.1.8.128:8002
 #EXTINF:-1 tvg-name="德惠综合" tvg-id="德惠综合" tvg-logo="" group-title="地方频道", 德惠综合
@@ -290,7 +290,7 @@ http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 #EXTINF:-1 tvg-name="泸县新闻综合" tvg-id="泸县新闻综合" tvg-logo="" group-title="地方频道", 泸县新闻综合
 http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 #EXTINF:-1 tvg-name="甘孜综合" tvg-id="甘孜综合" tvg-logo="" group-title="地方频道", 甘孜综合
-http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
+http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
 #EXTINF:-1 tvg-name="纳溪新闻" tvg-id="纳溪新闻" tvg-logo="" group-title="地方频道", 纳溪新闻
 https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8?zsicd
 #EXTINF:-1 tvg-name="金川乡村" tvg-id="金川乡村" tvg-logo="" group-title="地方频道", 金川乡村
@@ -405,8 +405,8 @@ https://l2fpdktp.live.sxmty.com:443/live/hls/e4c3b363cc4549788e2d983f403e07db/d9
 http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
 #EXTINF:-1 tvg-name="定襄综合" tvg-id="定襄综合" tvg-logo="" group-title="地方频道", 定襄综合
 http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
-#EXTINF:-1 tvg-name="山西文体生活" tvg-id="SX05" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shanxi1/shanxi_5.png" group-title="地方频道", 山西文体生活
-http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 tvg-name="山西文体生活" tvg-id="山西文体生活" tvg-logo="" group-title="地方频道", 山西文体生活
+http://110.177.146.152:888/udp/239.1.1.6:8006
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-id="山西社会与法治" tvg-logo="" group-title="地方频道", 山西社会与法治
 http://110.177.146.152:888/udp/239.1.1.5:8005
 #EXTINF:-1 tvg-name="平遥新闻综合" tvg-id="平遥新闻综合" tvg-logo="" group-title="地方频道", 平遥新闻综合
@@ -445,7 +445,7 @@ http://jt.zorua.cn:8787/udp/239.253.43.47:5146
 http://121.33.239.242:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-name="广州新闻" tvg-id="广州新闻" tvg-logo="" group-title="地方频道", 广州新闻
 http://1b6467f415.iok.la:9931/tsfile/live/1138_1.m3u8
-#EXTINF:-1 tvg-name="广州竞赛" tvg-id="广州竞赛" tvg-logo="" group-title="地方频道", 广州竞赛
+#EXTINF:-1 tvg-name="广州竞赛" tvg-id="广州竞赛" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="地方频道", 广州竞赛
 https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
 #EXTINF:-1 tvg-name="广州综合" tvg-id="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="地方频道", 广州综合
 http://r.jdshipin.com/iR6Gq
@@ -491,8 +491,6 @@ http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="田东综合" tvg-id="田东综合" tvg-logo="" group-title="地方频道", 田东综合
 http://pulls.myun.tv/live/0dkp33j5.m3u8
-#EXTINF:-1 tvg-name="龙州综合" tvg-id="龙州综合" tvg-logo="" group-title="地方频道", 龙州综合
-https://live.gxrb.com.cn/gx/longzhou/index.m3u8
 #EXTINF:-1 tvg-name="兵团五师双河新闻综合" tvg-id="兵团五师双河新闻综合" tvg-logo="" group-title="地方频道", 兵团五师双河新闻综合
 https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
 #EXTINF:-1 tvg-name="兵团十三师新星综合" tvg-id="兵团十三师新星综合" tvg-logo="" group-title="地方频道", 兵团十三师新星综合
@@ -716,19 +714,9 @@ http://220.161.87.62:8090/hls/0/index.m3u8
 #EXTINF:-1 tvg-name="福州生活" tvg-id="福州生活" tvg-logo="" group-title="地方频道", 福州生活
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8?zfud
 #EXTINF:-1 tvg-name="福州综合" tvg-id="福州综合" tvg-logo="" group-title="地方频道", 福州综合
-http://117.27.190.42:9998/tsfile/live/23301_1.m3u8
-#EXTINF:-1 tvg-name="福建综合" tvg-id="福建综合" tvg-logo="" group-title="地方频道", 福建综合
-http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8?zfud
 #EXTINF:-1 tvg-name="龙岩新闻综合" tvg-id="龙岩新闻综合" tvg-logo="" group-title="地方频道", 龙岩新闻综合
 https://fanmingming.com/fm?id=962
-#EXTINF:-1 tvg-name="福建文体" tvg-id="福建文体" tvg-logo="" group-title="地方频道", 福建文体
-http://117.27.190.42:9998/tsfile/live/23291_1.m3u8
-#EXTINF:-1 tvg-name="福建新闻" tvg-id="福建新闻" tvg-logo="" group-title="地方频道", 福建新闻
-http://117.27.190.42:9998/tsfile/live/23286_1.m3u8
-#EXTINF:-1 tvg-name="福建电视剧" tvg-id="福建电视剧" tvg-logo="" group-title="地方频道", 福建电视剧
-http://117.27.190.42:9998/tsfile/live/23287_1.m3u8
-#EXTINF:-1 tvg-name="福建经济" tvg-id="福建经济" tvg-logo="" group-title="地方频道", 福建经济
-http://117.27.190.42:9998/tsfile/live/23289_1.m3u8
 #EXTINF:-1 tvg-name="朝阳新闻综合" tvg-id="朝阳新闻综合" tvg-logo="" group-title="地方频道", 朝阳新闻综合
 http://120.76.248.139/live/bfgd/4200000282.m3u8
 #EXTINF:-1 tvg-name="辽宁北方" tvg-id="辽宁北方" tvg-logo="" group-title="地方频道", 辽宁北方
@@ -907,6 +895,8 @@ http://play-a2.quklive.com/live/1675942165226154.m3u8
 http://221.0.78.198:1681/hls/10226/index.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="" group-title="地方频道", 广东民生
 http://113.100.72.190:8899/udp/239.77.0.225:5146
+#EXTINF:-1 tvg-name="广东综艺" tvg-id="1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东综艺.png" group-title="地方频道", 广东综艺
+http://113.87.165.150:9600/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="杭州综合" tvg-id="杭州综合" tvg-logo="" group-title="地方频道", 杭州综合
 https://live.hoolo.tv/hztv1/playlist.m3u8?auth_key=1725344664-0-0-02346d8b57d09cfe89b8d45e26a64503
 #EXTINF:-1 tvg-name="潮州公共" tvg-id="潮州公共" tvg-logo="https://www.helloimg.com/i/2024/10/10/6707defb7b984.png" group-title="地方频道", 潮州公共
