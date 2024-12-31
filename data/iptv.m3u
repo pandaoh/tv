@@ -131,16 +131,16 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="卫视频道",CETV-4
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://live.fanmingming.cn/tv/浙江少儿.png" group-title="地方频道", 浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://live.fanmingming.cn/tv/浙江少儿.png" group-title="地方频道", 浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-id="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="地方频道", 优漫卡通
+http://119.62.80.45:9901/tsfile/live/0115_1.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-id="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="地方频道", 哈哈炫动
+http://101.65.33.225:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="地方频道", 广东珠江
 http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
-#EXTINF:-1 tvg-name="广东少儿" tvg-id="1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东少儿.png" group-title="地方频道", 广东少儿
-http://gmxw.7766.org:808/hls/175/index.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://live.fanmingming.cn/tv/浙江少儿.png" group-title="地方频道", 浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-id="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="地方频道", 优漫卡通
+http://119.62.80.45:9901/tsfile/live/0115_1.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-id="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="地方频道", 哈哈炫动
+http://101.65.33.225:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="地方频道", 山东教育
 http://120.238.94.10:9901/tsfile/live/1062_1.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-id="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="地方频道", 广东体育
@@ -158,9 +158,9 @@ http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="七台河民生社教" tvg-id="七台河民生社教" tvg-logo="https://live.fanmingming.cn/tv/七台河民生社教.png" group-title="地方频道", 七台河民生社教
 http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="万州三峡移民" tvg-id="万州三峡移民" tvg-logo="https://live.fanmingming.cn/tv/万州三峡移民.png" group-title="地方频道", 万州三峡移民
-http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
-#EXTINF:-1 tvg-name="万州综合" tvg-id="万州综合" tvg-logo="https://live.fanmingming.cn/tv/万州综合.png" group-title="地方频道", 万州综合
-http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
+http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
+#EXTINF:-1 tvg-name="万州综合" tvg-id="万州综合" tvg-logo="" group-title="地方频道", 万州综合
+http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
 #EXTINF:-1 tvg-name="万源新闻综合" tvg-id="万源新闻综合" tvg-logo="https://live.fanmingming.cn/tv/万源新闻综合.png" group-title="地方频道", 万源新闻综合
 http://live.wanyuannews.com/wytv/hd/live.m3u8
 #EXTINF:-1 tvg-name="万荣综合" tvg-id="万荣综合" tvg-logo="https://live.fanmingming.cn/tv/万荣综合.png" group-title="地方频道", 万荣综合
@@ -168,7 +168,7 @@ http://60.222.246.220:19433/hls1.m3u8
 #EXTINF:-1 tvg-name="上海教育" tvg-id="上海教育" tvg-logo="https://live.fanmingming.cn/tv/上海教育.png" group-title="地方频道", 上海教育
 http://61.173.144.157:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="上海纪实" tvg-id="上海纪实" tvg-logo="https://live.fanmingming.cn/tv/上海纪实.png" group-title="地方频道", 上海纪实
-http://175.16.180.250:9901/tsfile/live/1000_1.m3u8
+http://163.177.122.75:9901/tsfile/live/1054_1.m3u8
 #EXTINF:-1 tvg-name="上虞文化" tvg-id="上虞文化" tvg-logo="" group-title="地方频道", 上虞文化
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed?
 #EXTINF:-1 tvg-name="上虞文化影院" tvg-id="上虞文化影院" tvg-logo="https://live.fanmingming.cn/tv/上虞文化影院.png" group-title="地方频道", 上虞文化影院
@@ -181,10 +181,8 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed?
 #EXTINF:-1 tvg-name="东营综合" tvg-id="东营综合" tvg-logo="" group-title="地方频道", 东营综合
 http://stream.hhek.cn/xwzh/sd/live.m3u8?shandd
-#EXTINF:-1 tvg-name="东阳影视生活" tvg-id="东阳影视生活" tvg-logo="https://live.fanmingming.cn/tv/东阳影视生活.png" group-title="地方频道", 东阳影视生活
-http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-#EXTINF:-1 tvg-name="中国蓝新闻" tvg-id="中国蓝新闻" tvg-logo="" group-title="地方频道", 中国蓝新闻
-http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+#EXTINF:-1 tvg-name="中国蓝新闻" tvg-id="中国蓝新闻" tvg-logo="https://live.fanmingming.cn/tv/中国蓝新闻.png" group-title="地方频道", 中国蓝新闻
+https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 #EXTINF:-1 tvg-name="丰顺综合" tvg-id="丰顺综合" tvg-logo="" group-title="地方频道", 丰顺综合
 http://1b6467f415.iok.la:9931/tsfile/live/1100_1.m3u8
 #EXTINF:-1 tvg-name="临沂公共" tvg-id="临沂公共" tvg-logo="https://live.fanmingming.cn/tv/临沂公共.png" group-title="地方频道", 临沂公共
@@ -212,7 +210,7 @@ http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 #EXTINF:-1 tvg-name="云浮公共" tvg-id="云浮公共" tvg-logo="" group-title="地方频道", 云浮公共
 http://61.145.208.25:9090/udp/239.77.0.254:5146
 #EXTINF:-1 tvg-name="云浮综合" tvg-id="云浮综合" tvg-logo="" group-title="地方频道", 云浮综合
-http://14.19.168.64:4022/udp/239.77.0.253:5146
+https://livestream.oeeee.com/slive/17806.m3u8
 #EXTINF:-1 tvg-name="云霄综合" tvg-id="云霄综合" tvg-logo="" group-title="地方频道", 云霄综合
 http://live.zzyxxw.com:85/live/xwzh.m3u8
 #EXTINF:-1 tvg-name="五台综合" tvg-id="五台综合" tvg-logo="https://live.fanmingming.cn/tv/五台综合.png" group-title="地方频道", 五台综合
@@ -242,11 +240,9 @@ http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="余杭综合" tvg-id="余杭综合" tvg-logo="https://live.fanmingming.cn/tv/余杭综合.png" group-title="地方频道", 余杭综合
 http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="佛山公共" tvg-id="佛山公共" tvg-logo="" group-title="地方频道", 佛山公共
-http://14.19.168.64:4022/udp/239.253.43.53:5146
-#EXTINF:-1 tvg-name="佛山影视" tvg-id="佛山影视" tvg-logo="" group-title="地方频道", 佛山影视
-http://14.19.168.64:4022/udp/239.253.43.56:5146
+http://61.145.208.25:9090/udp/239.253.43.53:5146
 #EXTINF:-1 tvg-name="佛山综合" tvg-id="佛山综合" tvg-logo="" group-title="地方频道", 佛山综合
-http://14.19.168.64:4022/udp/239.253.43.57:5146
+http://61.145.208.25:9090/udp/239.253.43.57:5146
 #EXTINF:-1 tvg-name="六安公共" tvg-id="六安公共" tvg-logo="https://live.fanmingming.cn/tv/六安公共.png" group-title="地方频道", 六安公共
 http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8
 #EXTINF:-1 tvg-name="六安新闻综合" tvg-id="六安新闻综合" tvg-logo="https://live.fanmingming.cn/tv/六安新闻综合.png" group-title="地方频道", 六安新闻综合
@@ -259,7 +255,7 @@ http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 http://live.dxhmt.cn:9081/tv/10225-1.m3u8
 #EXTINF:-1 tvg-name="兴海综合" tvg-id="兴海综合" tvg-logo="https://live.fanmingming.cn/tv/兴海综合.png" group-title="地方频道", 兴海综合
 http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="兵团五师双河新闻综合" tvg-id="兵团五师双河新闻综合" tvg-logo="" group-title="地方频道", 兵团五师双河新闻综合
+#EXTINF:-1 tvg-name="兵团五师双河新闻综合" tvg-id="兵团五师双河新闻综合" tvg-logo="https://live.fanmingming.cn/tv/兵团五师双河新闻综合.png" group-title="地方频道", 兵团五师双河新闻综合
 https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
 #EXTINF:-1 tvg-name="兵团八师石河子教育" tvg-id="兵团八师石河子教育" tvg-logo="https://live.fanmingming.cn/tv/兵团八师石河子教育.png" group-title="地方频道", 兵团八师石河子教育
 http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd
@@ -277,8 +273,6 @@ http://live.dxhmt.cn:9081/tv/11325-1.m3u8
 http://221.199.193.3:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-name="内蒙古农牧" tvg-id="内蒙古农牧" tvg-logo="https://live.fanmingming.cn/tv/内蒙古农牧.png" group-title="地方频道", 内蒙古农牧
 https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙古少儿" tvg-id="内蒙古少儿" tvg-logo="https://live.fanmingming.cn/tv/内蒙古少儿.png" group-title="地方频道", 内蒙古少儿
-https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-id="内蒙古文体娱乐" tvg-logo="https://live.fanmingming.cn/tv/内蒙古文体娱乐.png" group-title="地方频道", 内蒙古文体娱乐
 https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古经济生活" tvg-id="内蒙古经济生活" tvg-logo="https://live.fanmingming.cn/tv/内蒙古经济生活.png" group-title="地方频道", 内蒙古经济生活
@@ -287,20 +281,18 @@ https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f3
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-id="内蒙古蒙语文化" tvg-logo="https://live.fanmingming.cn/tv/内蒙古蒙语文化.png" group-title="地方频道", 内蒙古蒙语文化
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙少儿" tvg-id="内蒙少儿" tvg-logo="https://live.fanmingming.cn/tv/内蒙少儿.png" group-title="地方频道", 内蒙少儿
-http://221.199.193.3:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="内蒙文体" tvg-id="内蒙文体" tvg-logo="https://live.fanmingming.cn/tv/内蒙文体.png" group-title="地方频道", 内蒙文体
 http://221.199.193.3:9901/tsfile/live/1008_1.m3u8
-#EXTINF:-1 tvg-name="内蒙经济" tvg-id="内蒙经济" tvg-logo="" group-title="地方频道", 内蒙经济
+#EXTINF:-1 tvg-name="内蒙经济" tvg-id="内蒙经济" tvg-logo="https://live.fanmingming.cn/tv/内蒙经济.png" group-title="地方频道", 内蒙经济
 http://221.199.193.157:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="利州综合" tvg-id="利州综合" tvg-logo="https://live.fanmingming.cn/tv/利州综合.png" group-title="地方频道", 利州综合
-http://tvfile.lzgbdst.com:80/nmip-media/channellive/channel106876/playlist.m3u8
+http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
 #EXTINF:-1 tvg-name="包头新闻综合" tvg-id="包头新闻综合" tvg-logo="https://live.fanmingming.cn/tv/包头新闻综合.png" group-title="地方频道", 包头新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
 #EXTINF:-1 tvg-name="化隆综合" tvg-id="化隆综合" tvg-logo="https://live.fanmingming.cn/tv/化隆综合.png" group-title="地方频道", 化隆综合
 http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
 #EXTINF:-1 tvg-name="北京财经" tvg-id="北京财经" tvg-logo="" group-title="地方频道", 北京财经
-http://123.113.249.203:8888/udp/239.3.1.116:8000
+http://123.113.187.204:8000/udp/239.3.1.116:8000
 #EXTINF:-1 tvg-name="北京青年" tvg-id="北京青年" tvg-logo="" group-title="地方频道", 北京青年
 http://111.196.129.152:20000/udp/239.3.1.118:8000
 #EXTINF:-1 tvg-name="十堰新闻" tvg-id="十堰新闻" tvg-logo="https://live.fanmingming.cn/tv/十堰新闻.png" group-title="地方频道", 十堰新闻
@@ -313,8 +305,6 @@ https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-name="南京娱乐" tvg-id="南京娱乐" tvg-logo="https://live.fanmingming.cn/tv/南京娱乐.png" group-title="地方频道", 南京娱乐
 https://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-name="南京少儿" tvg-id="南京少儿" tvg-logo="https://live.fanmingming.cn/tv/南京少儿.png" group-title="地方频道", 南京少儿
-https://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-name="南京教科" tvg-id="南京教科" tvg-logo="https://live.fanmingming.cn/tv/南京教科.png" group-title="地方频道", 南京教科
 http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-id="南京新闻综合" tvg-logo="https://live.fanmingming.cn/tv/南京新闻综合.png" group-title="地方频道", 南京新闻综合
@@ -325,8 +315,6 @@ https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
 http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 #EXTINF:-1 tvg-name="南宁影娱乐" tvg-id="南宁影娱乐" tvg-logo="https://live.fanmingming.cn/tv/南宁影娱乐.png" group-title="地方频道", 南宁影娱乐
 http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-#EXTINF:-1 tvg-name="南宁影视娱乐" tvg-id="南宁影视娱乐" tvg-logo="https://live.fanmingming.cn/tv/南宁影视娱乐.png" group-title="地方频道", 南宁影视娱乐
-http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 #EXTINF:-1 tvg-name="南宁新闻综合" tvg-id="南宁新闻综合" tvg-logo="https://live.fanmingming.cn/tv/南宁新闻综合.png" group-title="地方频道", 南宁新闻综合
 http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 #EXTINF:-1 tvg-name="南宁都市生活" tvg-id="南宁都市生活" tvg-logo="https://live.fanmingming.cn/tv/南宁都市生活.png" group-title="地方频道", 南宁都市生活
@@ -343,7 +331,7 @@ http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8
 https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 #EXTINF:-1 tvg-name="叶县" tvg-id="叶县" tvg-logo="https://live.fanmingming.cn/tv/叶县.png" group-title="地方频道", 叶县
 http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-#EXTINF:-1 tvg-name="吉县新闻综合" tvg-id="吉县新闻综合" tvg-logo="" group-title="地方频道", 吉县新闻综合
+#EXTINF:-1 tvg-name="吉县新闻综合" tvg-id="吉县新闻综合" tvg-logo="https://live.fanmingming.cn/tv/吉县新闻综合.png" group-title="地方频道", 吉县新闻综合
 http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
 #EXTINF:-1 tvg-name="吉林乡村" tvg-id="吉林乡村" tvg-logo="" group-title="地方频道", 吉林乡村
 http://36.129.204.117:9003//hls/23/index.m3u8
@@ -357,12 +345,8 @@ http://live.kanwz.net/ggpd/sd/live.m3u8
 http://live.kanwz.net/zhpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="周口扶沟" tvg-id="周口扶沟" tvg-logo="https://live.fanmingming.cn/tv/周口扶沟.png" group-title="地方频道", 周口扶沟
 http://live.dxhmt.cn:9081/tv/11621-1.m3u8
-#EXTINF:-1 tvg-name="呼和浩特新闻综合" tvg-id="呼和浩特新闻综合" tvg-logo="https://live.fanmingming.cn/tv/呼和浩特新闻综合.png" group-title="地方频道", 呼和浩特新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
 #EXTINF:-1 tvg-name="哈尔滨娱乐" tvg-id="哈尔滨娱乐" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨娱乐.png" group-title="地方频道", 哈尔滨娱乐
 https://stream.hrbtv.net/ylpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="哈尔滨影视" tvg-id="哈尔滨影视" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨影视.png" group-title="地方频道", 哈尔滨影视
-https://stream.hrbtv.net/yspd/sd/live.m3u8
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-id="哈尔滨新闻综合" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨新闻综合.png" group-title="地方频道", 哈尔滨新闻综合
 http://stream.hrbtv.net/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="哈尔滨生活" tvg-id="哈尔滨生活" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨生活.png" group-title="地方频道", 哈尔滨生活
@@ -381,12 +365,6 @@ http://125.62.24.185:80/1.m3u8
 https://play.kankanlive.com/live/1698724188723989.m3u8
 #EXTINF:-1 tvg-name="天津" tvg-id="天津" tvg-logo="" group-title="地方频道", 天津
 http://113.236.31.149:9901/tsfile/live/1129_1.m3u8
-#EXTINF:-1 tvg-name="天津文艺" tvg-id="天津文艺" tvg-logo="" group-title="地方频道", 天津文艺
-http://nas.hssvm.com:8888/udp/225.1.1.131:5002
-#EXTINF:-1 tvg-name="天津新闻" tvg-id="天津新闻" tvg-logo="" group-title="地方频道", 天津新闻
-http://nas.hssvm.com:8888/udp/225.1.1.130:5002
-#EXTINF:-1 tvg-name="天津都市" tvg-id="天津都市" tvg-logo="" group-title="地方频道", 天津都市
-http://nas.hssvm.com:8888/udp/225.1.1.128:5002
 #EXTINF:-1 tvg-name="夹江新闻综合" tvg-id="夹江新闻综合" tvg-logo="https://live.fanmingming.cn/tv/夹江新闻综合.png" group-title="地方频道", 夹江新闻综合
 http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8
 #EXTINF:-1 tvg-name="奎屯哈萨克语" tvg-id="奎屯哈萨克语" tvg-logo="https://live.fanmingming.cn/tv/奎屯哈萨克语.png" group-title="地方频道", 奎屯哈萨克语
@@ -401,8 +379,6 @@ https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
 http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
 #EXTINF:-1 tvg-name="安徽国际" tvg-id="安徽国际" tvg-logo="https://live.fanmingming.cn/tv/安徽国际.png" group-title="地方频道", 安徽国际
 http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
-#EXTINF:-1 tvg-name="安徽影视" tvg-id="安徽影视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/anhui/Anhui2.png" group-title="地方频道", 安徽影视
-http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-id="安徽经济生活" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/anhui/Anhui1.png" group-title="地方频道", 安徽经济生活
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-id="安徽综艺体育" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/anhui/Anhui4.png" group-title="地方频道", 安徽综艺体育
@@ -410,7 +386,7 @@ http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 #EXTINF:-1 tvg-name="安顺新闻" tvg-id="安顺新闻" tvg-logo="https://live.fanmingming.cn/tv/安顺新闻.png" group-title="地方频道", 安顺新闻
 http://7fb6a9494e941e2acfc4eed53f777c1a.livehwc3.cn/hplayer1.juyun.tv/camera/154379194.m3u8
 #EXTINF:-1 tvg-name="定襄综合" tvg-id="定襄综合" tvg-logo="https://live.fanmingming.cn/tv/定襄综合.png" group-title="地方频道", 定襄综合
-http://lbyzztfe.live.sxmty.com:80/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
 #EXTINF:-1 tvg-name="定西公共" tvg-id="定西公共" tvg-logo="https://live.fanmingming.cn/tv/定西公共.png" group-title="地方频道", 定西公共
 https://play.kankanlive.com/live/1645680054929933.m3u8?zgand
 #EXTINF:-1 tvg-name="定西综合" tvg-id="定西综合" tvg-logo="https://live.fanmingming.cn/tv/定西综合.png" group-title="地方频道", 定西综合
@@ -423,26 +399,24 @@ http://live.bcrmtzx.com/tv01/sd/live.m3u8?zyund
 http://xjlive.xjxrmt.cn:8091/live/xwpd.m3u8
 #EXTINF:-1 tvg-name="屏边综合" tvg-id="屏边综合" tvg-logo="" group-title="地方频道", 屏边综合
 http://live.ynurl.com/video/s10040-pbzh/index.m3u8?zyund
-#EXTINF:-1 tvg-name="山东体育" tvg-id="山东体育" tvg-logo="" group-title="地方频道", 山东体育
-http://58.57.40.22:9901/tsfile/live/1020_1.m3u8
-#EXTINF:-1 tvg-name="山东农科" tvg-id="山东农科" tvg-logo="https://live.fanmingming.cn/tv/山东农科.png" group-title="地方频道", 山东农科
-http://221.0.78.198:1681/hls/10223/index.m3u8
+#EXTINF:-1 tvg-name="山东体育" tvg-id="山东体育" tvg-logo="https://live.fanmingming.cn/tv/山东体育.png" group-title="地方频道", 山东体育
+http://124.128.73.58:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-name="山东农科" tvg-id="山东农科" tvg-logo="" group-title="地方频道", 山东农科
+http://58.57.40.22:9901/tsfile/live/1022_1.m3u8
 #EXTINF:-1 tvg-name="山东国际" tvg-id="山东国际" tvg-logo="https://live.fanmingming.cn/tv/山东国际.png" group-title="地方频道", 山东国际
 http://221.0.78.198:1681/hls/10228/index.m3u8
-#EXTINF:-1 tvg-name="山东少儿" tvg-id="山东少儿" tvg-logo="https://live.fanmingming.cn/tv/山东少儿.png" group-title="地方频道", 山东少儿
-http://221.0.78.198:1681/hls/10227/index.m3u8
 #EXTINF:-1 tvg-name="山东居家购物" tvg-id="山东居家购物" tvg-logo="https://live.fanmingming.cn/tv/山东居家购物.png" group-title="地方频道", 山东居家购物
 http://144.52.160.109:9901/tsfile/live/1063_1.m3u8
-#EXTINF:-1 tvg-name="山东文旅" tvg-id="山东文旅" tvg-logo="" group-title="地方频道", 山东文旅
-http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
+#EXTINF:-1 tvg-name="山东文旅" tvg-id="山东文旅" tvg-logo="https://live.fanmingming.cn/tv/山东文旅.png" group-title="地方频道", 山东文旅
+http://60.208.61.2:352/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="山东新闻" tvg-id="山东新闻" tvg-logo="https://live.fanmingming.cn/tv/山东新闻.png" group-title="地方频道", 山东新闻
-http://60.210.100.54:352/tsfile/live/1002_1.m3u8
+http://60.208.61.2:352/tsfile/live/0141_1.m3u8
 #EXTINF:-1 tvg-name="山东生活" tvg-id="山东生活" tvg-logo="https://live.fanmingming.cn/tv/山东生活.png" group-title="地方频道", 山东生活
 http://221.0.78.198:1681/hls/10226/index.m3u8
-#EXTINF:-1 tvg-name="山东综艺" tvg-id="山东综艺" tvg-logo="" group-title="地方频道", 山东综艺
-http://58.57.40.22:9901/tsfile/live/1021_1.m3u8
+#EXTINF:-1 tvg-name="山东综艺" tvg-id="山东综艺" tvg-logo="https://live.fanmingming.cn/tv/山东综艺.png" group-title="地方频道", 山东综艺
+http://124.128.73.58:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-id="山东齐鲁" tvg-logo="https://live.fanmingming.cn/tv/山东齐鲁.png" group-title="地方频道", 山东齐鲁
-http://60.210.100.54:352/tsfile/live/1001_1.m3u8
+http://124.128.73.58:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="岳池新闻综合" tvg-id="岳池新闻综合" tvg-logo="https://live.fanmingming.cn/tv/岳池新闻综合.png" group-title="地方频道", 岳池新闻综合
 http://liveyc.cmc.yuechirmt.cn:80/live/yctv.m3u8?auth_key=1714112398-0-0-d9a6bd74623c01c1c2f9576fe51e8b7b
 #EXTINF:-1 tvg-name="岷县综合" tvg-id="岷县综合" tvg-logo="https://live.fanmingming.cn/tv/岷县综合.png" group-title="地方频道", 岷县综合
@@ -467,6 +441,8 @@ http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed?
 #EXTINF:-1 tvg-name="平湖民生休闲" tvg-id="平湖民生休闲" tvg-logo="https://live.fanmingming.cn/tv/平湖民生休闲.png" group-title="地方频道", 平湖民生休闲
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+#EXTINF:-1 tvg-name="平遥新闻综合" tvg-id="平遥新闻综合" tvg-logo="" group-title="地方频道", 平遥新闻综合
+https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 #EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://live.fanmingming.cn/tv/广东新闻.png" group-title="地方频道", 广东新闻
 http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://live.fanmingming.cn/tv/广东民生.png" group-title="地方频道", 广东民生
@@ -477,29 +453,23 @@ https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 #EXTINF:-1 tvg-name="广南电视台" tvg-id="广南电视台" tvg-logo="https://live.fanmingming.com/tv/广南电视台.png" group-title="地方频道", 广南电视台
 http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8?zyund
-#EXTINF:-1 tvg-name="广安公共" tvg-id="广安公共" tvg-logo="https://live.fanmingming.cn/tv/广安公共.png" group-title="地方频道", 广安公共
-http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+#EXTINF:-1 tvg-name="广安公共" tvg-id="广安公共" tvg-logo="" group-title="地方频道", 广安公共
+http://live1.gatv.com.cn:85/live/GGPD.m3u8
 #EXTINF:-1 tvg-name="广州南国都市频道" tvg-id="广州南国都市频道" tvg-logo="https://live.fanmingming.com/tv/广州南国都市频道.png" group-title="地方频道", 广州南国都市频道
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
-#EXTINF:-1 tvg-name="广州影视" tvg-id="广州影视" tvg-logo="" group-title="地方频道", 广州影视
-http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
-#EXTINF:-1 tvg-name="广州影视频道" tvg-id="广州影视频道" tvg-logo="https://live.fanmingming.com/tv/广州影视频道.png" group-title="地方频道", 广州影视频道
-http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
 #EXTINF:-1 tvg-name="广州新闻" tvg-id="广州新闻" tvg-logo="" group-title="地方频道", 广州新闻
 http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
-#EXTINF:-1 tvg-name="广州电视台影视频道" tvg-id="广州电视台影视频道" tvg-logo="https://live.fanmingming.com/tv/广州电视台影视频道.png" group-title="地方频道", 广州电视台影视频道
-https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
 #EXTINF:-1 tvg-name="广州电视台新闻频道" tvg-id="广州电视台新闻频道" tvg-logo="https://live.fanmingming.com/tv/广州电视台新闻频道.png" group-title="地方频道", 广州电视台新闻频道
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
 #EXTINF:-1 tvg-name="广州电视台法治频道" tvg-id="广州电视台法治频道" tvg-logo="https://live.fanmingming.com/tv/广州电视台法治频道.png" group-title="地方频道", 广州电视台法治频道
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6
 #EXTINF:-1 tvg-name="广州电视台综合频道" tvg-id="广州电视台综合频道" tvg-logo="https://live.fanmingming.com/tv/广州电视台综合频道.png" group-title="地方频道", 广州电视台综合频道
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
-#EXTINF:-1 tvg-name="广州竞赛" tvg-id="广州竞赛" tvg-logo="" group-title="地方频道", 广州竞赛
+#EXTINF:-1 tvg-name="广州竞赛" tvg-id="广州竞赛" tvg-logo="https://live.fanmingming.cn/tv/广州竞赛.png" group-title="地方频道", 广州竞赛
 http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
 #EXTINF:-1 tvg-name="广州竞赛频道" tvg-id="广州竞赛频道" tvg-logo="https://live.fanmingming.com/tv/广州竞赛频道.png" group-title="地方频道", 广州竞赛频道
 https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
-#EXTINF:-1 tvg-name="广州综合" tvg-id="广州综合" tvg-logo="" group-title="地方频道", 广州综合
+#EXTINF:-1 tvg-name="广州综合" tvg-id="广州综合" tvg-logo="https://live.fanmingming.cn/tv/广州综合.png" group-title="地方频道", 广州综合
 http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://live.fanmingming.cn/tv/广西新闻.png" group-title="地方频道", 广西新闻
 http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
@@ -509,6 +479,8 @@ https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e657
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
 #EXTINF:-1 tvg-name="延边1" tvg-id="延边1" tvg-logo="https://live.fanmingming.cn/tv/延边-1.png" group-title="地方频道", 延边1
 http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
+#EXTINF:-1 tvg-name="延边2" tvg-id="延边2" tvg-logo="https://live.fanmingming.cn/tv/延边-2.png" group-title="地方频道", 延边2
+http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
 #EXTINF:-1 tvg-name="开化公园" tvg-id="开化公园" tvg-logo="" group-title="地方频道", 开化公园
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed?
 #EXTINF:-1 tvg-name="开化国家公园" tvg-id="开化国家公园" tvg-logo="https://live.fanmingming.cn/tv/开化国家公园.png" group-title="地方频道", 开化国家公园
@@ -523,9 +495,9 @@ http://live.ynurl.com/video/s10044-KYTV/index.m3u8?zyund
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
 #EXTINF:-1 tvg-name="张掖新闻综合" tvg-id="张掖新闻综合" tvg-logo="https://live.fanmingming.cn/tv/张掖新闻综合.png" group-title="地方频道", 张掖新闻综合
 https://play.kankanlive.com/live/1629709727589955.m3u8
-#EXTINF:-1 tvg-name="德阳公共" tvg-id="德阳公共" tvg-logo="" group-title="地方频道", 德阳公共
+#EXTINF:-1 tvg-name="德阳公共" tvg-id="德阳公共" tvg-logo="https://live.fanmingming.cn/tv/德阳公共.png" group-title="地方频道", 德阳公共
 http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
-#EXTINF:-1 tvg-name="德阳新闻综合" tvg-id="德阳新闻综合" tvg-logo="" group-title="地方频道", 德阳新闻综合
+#EXTINF:-1 tvg-name="德阳新闻综合" tvg-id="德阳新闻综合" tvg-logo="https://live.fanmingming.cn/tv/德阳新闻综合.png" group-title="地方频道", 德阳新闻综合
 http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
 #EXTINF:-1 tvg-name="怀仁综合" tvg-id="怀仁综合" tvg-logo="https://live.fanmingming.cn/tv/怀仁综合.png" group-title="地方频道", 怀仁综合
 http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
@@ -630,14 +602,14 @@ http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 #EXTINF:-1 tvg-name="汉源综合" tvg-id="汉源综合" tvg-logo="https://live.fanmingming.cn/tv/汉源综合.png" group-title="地方频道", 汉源综合
 http://live.hyxrmt.com:85/live/xwpd.m3u8
 #EXTINF:-1 tvg-name="汕头文旅" tvg-id="汕头文旅" tvg-logo="" group-title="地方频道", 汕头文旅
-http://61.145.208.25:9090/udp/239.77.1.132:5146
+http://14.19.168.64:4022/udp/239.77.1.132:5146
 #EXTINF:-1 tvg-name="汕头经济" tvg-id="汕头经济" tvg-logo="" group-title="地方频道", 汕头经济
-http://113.68.53.117:4000/udp/239.77.1.131:5146
+http://61.145.208.25:9090/udp/239.253.43.46:5146
 #EXTINF:-1 tvg-name="汕头综合" tvg-id="汕头综合" tvg-logo="" group-title="地方频道", 汕头综合
-http://113.68.53.117:4000/udp/239.77.1.130:5146
+http://14.19.168.64:4022/udp/239.77.1.130:5146
 #EXTINF:-1 tvg-name="江夏新闻综合" tvg-id="江夏新闻综合" tvg-logo="https://live.fanmingming.cn/tv/江夏新闻综合.png" group-title="地方频道", 江夏新闻综合
 http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
-#EXTINF:-1 tvg-name="江宁电视台综合" tvg-id="江宁电视台综合" tvg-logo="https://live.fanmingming.com/tv/江宁电视台综合.png" group-title="地方频道", 江宁电视台综合
+#EXTINF:-1 tvg-name="江宁电视台综合" tvg-id="江宁电视台综合" tvg-logo="https://live.fanmingming.cn/tv/江宁电视台综合.png" group-title="地方频道", 江宁电视台综合
 https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 #EXTINF:-1 tvg-name="江川综合" tvg-id="江川综合" tvg-logo="" group-title="地方频道", 江川综合
 http://live.ynurl.com/video/s10037-JCTV/index.m3u8?zyund
@@ -647,7 +619,7 @@ http://222.179.155.21:1935/ch1.m3u8
 http://58.17.48.228:808/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="江门综合" tvg-id="江门综合" tvg-logo="" group-title="地方频道", 江门综合
 http://14.19.168.64:4022/udp/239.77.0.201:5146
-#EXTINF:-1 tvg-name="汶川新闻综合" tvg-id="汶川新闻综合" tvg-logo="https://live.fanmingming.cn/tv/汶川新闻综合.png" group-title="地方频道", 汶川新闻综合
+#EXTINF:-1 tvg-name="汶川新闻综合" tvg-id="汶川新闻综合" tvg-logo="" group-title="地方频道", 汶川新闻综合
 http://live.iwcmt.cn:90/live/zhxw.m3u8
 #EXTINF:-1 tvg-name="汾西综合" tvg-id="汾西综合" tvg-logo="https://live.fanmingming.cn/tv/汾西综合.png" group-title="地方频道", 汾西综合
 https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
@@ -666,7 +638,7 @@ http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="河北都市" tvg-id="河北都市" tvg-logo="https://live.fanmingming.cn/tv/河北都市.png" group-title="地方频道", 河北都市
 http://123.182.210.159:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-name="河南民生" tvg-id="河南民生" tvg-logo="https://live.fanmingming.cn/tv/河南民生.png" group-title="地方频道", 河南民生
-http://1.197.252.119:9901/tsfile/live/1002_1.m3u8
+http://171.14.89.179:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-name="河南都市" tvg-id="河南都市" tvg-logo="https://live.fanmingming.cn/tv/河南都市.png" group-title="地方频道", 河南都市
 http://1.199.235.116:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="河源公共" tvg-id="河源公共" tvg-logo="" group-title="地方频道", 河源公共
@@ -683,8 +655,6 @@ http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
 http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
 #EXTINF:-1 tvg-name="泰州一套新闻综合" tvg-id="泰州一套新闻综合" tvg-logo="https://live.fanmingming.cn/tv/泰州一套新闻综合.png" group-title="地方频道", 泰州一套新闻综合
 http://stream1.mytaizhou.net/xwzh/playlist.m3u8?_upt=2f3c2e461725409415
-#EXTINF:-1 tvg-name="泰州三套影视娱乐" tvg-id="泰州三套影视娱乐" tvg-logo="https://live.fanmingming.cn/tv/泰州三套影视娱乐.png" group-title="地方频道", 泰州三套影视娱乐
-http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=16dfe82d1725409426
 #EXTINF:-1 tvg-name="泸县新闻综合" tvg-id="泸县新闻综合" tvg-logo="" group-title="地方频道", 泸县新闻综合
 http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 #EXTINF:-1 tvg-name="洞头综合" tvg-id="洞头综合" tvg-logo="https://live.fanmingming.cn/tv/洞头综合.png" group-title="地方频道", 洞头综合
@@ -695,20 +665,16 @@ http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 http://221.0.78.198:1681/hls/10284/index.m3u8
 #EXTINF:-1 tvg-name="济南娱乐" tvg-id="济南娱乐" tvg-logo="https://live.fanmingming.cn/tv/济南娱乐.png" group-title="地方频道", 济南娱乐
 http://221.0.78.198:1681/hls/10283/index.m3u8
-#EXTINF:-1 tvg-name="济南少儿" tvg-id="济南少儿" tvg-logo="https://live.fanmingming.cn/tv/济南少儿.png" group-title="地方频道", 济南少儿
-http://221.0.78.198:1681/hls/10285/index.m3u8
-#EXTINF:-1 tvg-name="济南影视" tvg-id="济南影视" tvg-logo="https://live.fanmingming.cn/tv/济南影视.png" group-title="地方频道", 济南影视
-http://221.0.78.198:1681/hls/10282/index.m3u8
 #EXTINF:-1 tvg-name="济南教育" tvg-id="济南教育" tvg-logo="https://live.fanmingming.cn/tv/济南教育.png" group-title="地方频道", 济南教育
 http://221.0.78.198:1681/hls/10286/index.m3u8
 #EXTINF:-1 tvg-name="济南新闻综合" tvg-id="济南新闻综合" tvg-logo="https://live.fanmingming.cn/tv/济南新闻综合.png" group-title="地方频道", 济南新闻综合
 http://221.0.78.198:1681/hls/10279/index.m3u8
 #EXTINF:-1 tvg-name="济南生活" tvg-id="济南生活" tvg-logo="https://live.fanmingming.cn/tv/济南生活.png" group-title="地方频道", 济南生活
 http://221.0.78.198:1681/hls/10281/index.m3u8
-#EXTINF:-1 tvg-name="济南综合" tvg-id="济南综合" tvg-logo="" group-title="地方频道", 济南综合
+#EXTINF:-1 tvg-name="济南综合" tvg-id="济南综合" tvg-logo="https://live.fanmingming.cn/tv/济南综合.png" group-title="地方频道", 济南综合
 http://124.128.73.58:9901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-name="济南都市" tvg-id="济南都市" tvg-logo="https://live.fanmingming.cn/tv/济南都市.png" group-title="地方频道", 济南都市
-http://221.0.78.198:1681/hls/10280/index.m3u8
+http://124.128.73.58:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="济宁公共" tvg-id="济宁公共" tvg-logo="https://live.fanmingming.cn/tv/济宁公共.png" group-title="地方频道", 济宁公共
 http://111.14.181.15:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-name="济宁图文" tvg-id="济宁图文" tvg-logo="" group-title="地方频道", 济宁图文
@@ -721,29 +687,29 @@ http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 http://111.14.181.15:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="济源电视一套" tvg-id="济源电视一套" tvg-logo="https://live.fanmingming.cn/tv/济源电视一套.png" group-title="地方频道", 济源电视一套
 http://live.dxhmt.cn:9081/tv/19001-1.m3u8
-#EXTINF:-1 tvg-name="浙江休闲台" tvg-id="浙江休闲台" tvg-logo="https://live.fanmingming.com/tv/浙江休闲台.png" group-title="地方频道", 浙江休闲台
+#EXTINF:-1 tvg-name="浙江休闲台" tvg-id="浙江休闲台" tvg-logo="https://live.fanmingming.cn/tv/浙江休闲台.png" group-title="地方频道", 浙江休闲台
 http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 #EXTINF:-1 tvg-name="浙江公共新闻" tvg-id="浙江公共新闻" tvg-logo="https://live.fanmingming.cn/tv/浙江新闻.png" group-title="地方频道", 浙江公共新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江国际" tvg-id="浙江国际" tvg-logo="https://live.fanmingming.cn/tv/浙江国际.png" group-title="地方频道", 浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江教科影视" tvg-id="浙江教科影视" tvg-logo="https://live.fanmingming.cn/tv/浙江教科影视.png" group-title="地方频道", 浙江教科影视
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江教科影院" tvg-id="浙江教科影院" tvg-logo="" group-title="地方频道", 浙江教科影院
+#EXTINF:-1 tvg-name="浙江教科影院" tvg-id="浙江教科影院" tvg-logo="https://live.fanmingming.cn/tv/浙江教科影院.png" group-title="地方频道", 浙江教科影院
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江教育" tvg-id="浙江教育" tvg-logo="" group-title="地方频道", 浙江教育
+#EXTINF:-1 tvg-name="浙江教育" tvg-id="浙江教育" tvg-logo="https://live.fanmingming.cn/tv/浙江教育.png" group-title="地方频道", 浙江教育
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?
-#EXTINF:-1 tvg-name="浙江数码时代" tvg-id="浙江数码时代" tvg-logo="" group-title="地方频道", 浙江数码时代
+#EXTINF:-1 tvg-name="浙江数码时代" tvg-id="浙江数码时代" tvg-logo="https://live.fanmingming.cn/tv/浙江数码时代.png" group-title="地方频道", 浙江数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江新闻" tvg-id="浙江新闻" tvg-logo="https://live.fanmingming.cn/tv/浙江新闻.png" group-title="地方频道", 浙江新闻
 http://183.136.148.214:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-name="浙江民生" tvg-id="浙江民生" tvg-logo="https://live.fanmingming.cn/tv/浙江民生.png" group-title="地方频道", 浙江民生
+http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-id="浙江民生休闲" tvg-logo="https://live.fanmingming.cn/tv/浙江民生休闲.png" group-title="地方频道", 浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江生活" tvg-id="浙江生活" tvg-logo="https://live.fanmingming.cn/tv/浙江生活.png" group-title="地方频道", 浙江生活
 http://183.136.148.214:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-name="浙江经视" tvg-id="浙江经视" tvg-logo="https://live.fanmingming.cn/tv/浙江经济生活.png" group-title="地方频道", 浙江经视
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江钱江" tvg-id="浙江钱江" tvg-logo="" group-title="地方频道", 浙江钱江
+#EXTINF:-1 tvg-name="浙江钱江" tvg-id="浙江钱江" tvg-logo="https://live.fanmingming.cn/tv/浙江钱江.png" group-title="地方频道", 浙江钱江
 http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-id="浙江钱江都市" tvg-logo="https://live.fanmingming.cn/tv/钱江都市.png" group-title="地方频道", 浙江钱江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -753,8 +719,8 @@ http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 #EXTINF:-1 tvg-name="淅川电视" tvg-id="淅川电视" tvg-logo="https://live.fanmingming.cn/tv/淅川电视.png" group-title="地方频道", 淅川电视
 http://live.dxhmt.cn:9081/tv/11326-1.m3u8
-#EXTINF:-1 tvg-name="深圳少儿" tvg-id="深圳少儿" tvg-logo="" group-title="地方频道", 深圳少儿
-http://121.33.239.242:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="深圳东部" tvg-id="深圳东部" tvg-logo="" group-title="地方频道", 深圳东部
+http://113.68.53.117:4000/udp/239.77.1.224:5146
 #EXTINF:-1 tvg-name="深圳移动电视" tvg-id="深圳移动电视" tvg-logo="" group-title="地方频道", 深圳移动电视
 http://14.19.168.64:4022/udp/239.77.1.175:5146
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-id="深圳财经生活" tvg-logo="" group-title="地方频道", 深圳财经生活
@@ -769,14 +735,12 @@ http://59.173.243.210:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=
 http://58.19.43.46:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-name="湖北崇阳综合" tvg-id="湖北崇阳综合" tvg-logo="" group-title="地方频道", 湖北崇阳综合
 http://61.184.176.248:10500/live/live.m3u8
-#EXTINF:-1 tvg-name="湖北影视" tvg-id="湖北影视" tvg-logo="https://live.fanmingming.cn/tv/湖北影视.png" group-title="地方频道", 湖北影视
-http://58.19.43.46:9901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-name="湖北教育" tvg-id="湖北教育" tvg-logo="https://live.fanmingming.cn/tv/湖北教育.png" group-title="地方频道", 湖北教育
 http://220.249.114.102:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-name="湖北生活" tvg-id="湖北生活" tvg-logo="https://live.fanmingming.cn/tv/湖北生活.png" group-title="地方频道", 湖北生活
 http://220.249.114.102:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-name="湖北经视" tvg-id="湖北经视" tvg-logo="https://live.fanmingming.cn/tv/湖北经视.png" group-title="地方频道", 湖北经视
-http://58.19.43.46:9901/tsfile/live/1017_1.m3u8
+http://183.94.1.118:8801/tsfile/live/1017_1.m3u8
 #EXTINF:-1 tvg-name="湖北综合" tvg-id="湖北综合" tvg-logo="https://live.fanmingming.cn/tv/湖北综合.png" group-title="地方频道", 湖北综合
 http://119.36.148.115:59901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-name="湖南公共" tvg-id="湖南公共" tvg-logo="https://live.fanmingming.cn/tv/湖南公共.png" group-title="地方频道", 湖南公共
@@ -789,8 +753,6 @@ http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-id="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="地方频道", 湖南爱晚
 http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
-#EXTINF:-1 tvg-name="湖南电影" tvg-id="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="地方频道", 湖南电影
-http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-id="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="地方频道", 湖南电视剧
 http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
 #EXTINF:-1 tvg-name="湖南经视" tvg-id="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="地方频道", 湖南经视
@@ -834,7 +796,7 @@ http://pili-live-hls.hfmt.net/gntv/mqtv.m3u8?gansu
 #EXTINF:-1 tvg-name="玛纳斯综合" tvg-id="玛纳斯综合" tvg-logo="https://live.fanmingming.cn/tv/玛纳斯综合.png" group-title="地方频道", 玛纳斯综合
 http://218.84.127.245:1026/hls/main1/playlist.m3u8
 #EXTINF:-1 tvg-name="珠江台" tvg-id="珠江台" tvg-logo="" group-title="地方频道", 珠江台
-http://113.15.185.150:8181/tsfile/live/1000_1.m3u8
+http://113.15.184.196:8181/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="瑞丽综合" tvg-id="瑞丽综合" tvg-logo="" group-title="地方频道", 瑞丽综合
 http://live.ynurl.com/video/s10021-rltv/index.m3u8?zyund
 #EXTINF:-1 tvg-name="璧山综合" tvg-id="璧山综合" tvg-logo="" group-title="地方频道", 璧山综合
@@ -842,29 +804,23 @@ http://222.179.42.129:8181/hls1.m3u8
 #EXTINF:-1 tvg-name="甘南综合" tvg-id="甘南综合" tvg-logo="https://live.fanmingming.cn/tv/甘南综合.png" group-title="地方频道", 甘南综合
 http://pili-live-hls.hfmt.net/gntv/gnhytv.m3u8?zgand
 #EXTINF:-1 tvg-name="甘孜综合" tvg-id="甘孜综合" tvg-logo="" group-title="地方频道", 甘孜综合
-http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
+http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 #EXTINF:-1 tvg-name="生活时尚" tvg-id="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" group-title="地方频道", 生活时尚
 http://221.0.78.198:1681/hls/10275/index.m3u8
 #EXTINF:-1 tvg-name="田东综合" tvg-id="田东综合" tvg-logo="https://live.fanmingming.cn/tv/田东综合.png" group-title="地方频道", 田东综合
 http://pulls.myun.tv/live/0dkp33j5.m3u8
 #EXTINF:-1 tvg-name="盈江综合" tvg-id="盈江综合" tvg-logo="" group-title="地方频道", 盈江综合
 http://live.ynurl.com/video/s10016-YJTV-2/index.m3u8?zyund
-#EXTINF:-1 tvg-name="睢宁三农" tvg-id="睢宁三农" tvg-logo="https://live.fanmingming.com/tv/睢宁三农.png" group-title="地方频道", 睢宁三农
-http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8
-#EXTINF:-1 tvg-name="睢宁综合" tvg-id="睢宁综合" tvg-logo="https://live.fanmingming.com/tv/睢宁综合.png" group-title="地方频道", 睢宁综合
+#EXTINF:-1 tvg-name="睢宁综合" tvg-id="睢宁综合" tvg-logo="https://live.fanmingming.cn/tv/睢宁综合.png" group-title="地方频道", 睢宁综合
 http://suining-tv-hls.cm.jstv.com:80/suining-tv/suiningzh.m3u8
 #EXTINF:-1 tvg-name="石屏综合" tvg-id="石屏综合" tvg-logo="" group-title="地方频道", 石屏综合
 http://live.ynurl.com/video/s10059-SPTV/index.m3u8?zyund
 #EXTINF:-1 tvg-name="砚山电视台" tvg-id="砚山电视台" tvg-logo="https://live.fanmingming.com/tv/砚山电视台.png" group-title="地方频道", 砚山电视台
 http://live.ynurl.com/video/s10020-ystv/index.m3u8?zyund
-#EXTINF:-1 tvg-name="福州少儿" tvg-id="福州少儿" tvg-logo="https://live.fanmingming.cn/tv/福州少儿.png" group-title="地方频道", 福州少儿
-http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-name="福州生活" tvg-id="福州生活" tvg-logo="https://live.fanmingming.cn/tv/福州生活.png" group-title="地方频道", 福州生活
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8?zfud
 #EXTINF:-1 tvg-name="福州综合" tvg-id="福州综合" tvg-logo="https://live.fanmingming.cn/tv/福州综合.png" group-title="地方频道", 福州综合
 http://117.27.190.42:9998/tsfile/live/23301_1.m3u8
-#EXTINF:-1 tvg-name="福建少儿" tvg-id="福建少儿" tvg-logo="https://live.fanmingming.cn/tv/福建少儿.png" group-title="地方频道", 福建少儿
-http://117.27.190.42:9998/tsfile/live/23290_1.m3u8
 #EXTINF:-1 tvg-name="福建文体" tvg-id="福建文体" tvg-logo="https://live.fanmingming.cn/tv/福建文体.png" group-title="地方频道", 福建文体
 http://117.27.190.42:9998/tsfile/live/23291_1.m3u8
 #EXTINF:-1 tvg-name="福建新闻" tvg-id="福建新闻" tvg-logo="https://live.fanmingming.cn/tv/福建新闻.png" group-title="地方频道", 福建新闻
@@ -879,24 +835,22 @@ http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
 http://live.dxhmt.cn:9081/tv/11081-1.m3u8
 #EXTINF:-1 tvg-name="纪实人文" tvg-id="纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="地方频道", 纪实人文
 http://121.19.134.222:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="绍兴公共" tvg-id="绍兴公共" tvg-logo="" group-title="地方频道", 绍兴公共
-http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
 #EXTINF:-1 tvg-name="绍兴文化" tvg-id="绍兴文化" tvg-logo="" group-title="地方频道", 绍兴文化
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed?
-#EXTINF:-1 tvg-name="绍兴文化影视" tvg-id="绍兴文化影视" tvg-logo="" group-title="地方频道", 绍兴文化影视
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 tvg-name="绍兴文化影院" tvg-id="绍兴文化影院" tvg-logo="" group-title="地方频道", 绍兴文化影院
+#EXTINF:-1 tvg-name="绍兴文化影院" tvg-id="绍兴文化影院" tvg-logo="https://live.fanmingming.cn/tv/绍兴文化影院.png" group-title="地方频道", 绍兴文化影院
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 #EXTINF:-1 tvg-name="绍兴新闻" tvg-id="绍兴新闻" tvg-logo="" group-title="地方频道", 绍兴新闻
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed?
-#EXTINF:-1 tvg-name="绍兴新闻综合" tvg-id="绍兴新闻综合" tvg-logo="" group-title="地方频道", 绍兴新闻综合
+#EXTINF:-1 tvg-name="绍兴新闻综合" tvg-id="绍兴新闻综合" tvg-logo="https://live.fanmingming.cn/tv/绍兴新闻综合.png" group-title="地方频道", 绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
-#EXTINF:-1 tvg-name="绍兴电视台公共" tvg-id="绍兴电视台公共" tvg-logo="" group-title="地方频道", 绍兴电视台公共
+#EXTINF:-1 tvg-name="绍兴电视台公共" tvg-id="绍兴电视台公共" tvg-logo="https://live.fanmingming.cn/tv/绍兴电视台公共.png" group-title="地方频道", 绍兴电视台公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 #EXTINF:-1 tvg-name="缙云综合" tvg-id="缙云综合" tvg-logo="https://live.fanmingming.cn/tv/缙云综合.png" group-title="地方频道", 缙云综合
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 #EXTINF:-1 tvg-name="罗城综合" tvg-id="罗城综合" tvg-logo="https://live.fanmingming.com/tv/罗城综合.png" group-title="地方频道", 罗城综合
 http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
+#EXTINF:-1 tvg-name="美丽云南" tvg-id="美丽云南" tvg-logo="" group-title="地方频道", 美丽云南
+https://www.ynbit.com:1937/cyds-mlyn/livestream/playlist.m3u8?zyund
 #EXTINF:-1 tvg-name="腾冲综合" tvg-id="腾冲综合" tvg-logo="" group-title="地方频道", 腾冲综合
 http://live.ynurl.com/video/s10012-TCTV/index.m3u8?zyund
 #EXTINF:-1 tvg-name="舟曲新闻" tvg-id="舟曲新闻" tvg-logo="https://live.fanmingming.cn/tv/舟曲新闻.png" group-title="地方频道", 舟曲新闻
@@ -908,12 +862,12 @@ http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed?
 #EXTINF:-1 tvg-name="苍南新闻综合" tvg-id="苍南新闻综合" tvg-logo="https://live.fanmingming.cn/tv/苍南新闻综合.png" group-title="地方频道", 苍南新闻综合
 http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 #EXTINF:-1 tvg-name="茂名公共" tvg-id="茂名公共" tvg-logo="" group-title="地方频道", 茂名公共
-http://14.19.168.64:4022/udp/239.77.0.207:5146
+http://113.68.53.117:4000/udp/239.77.0.207:5146
 #EXTINF:-1 tvg-name="茂名综合" tvg-id="茂名综合" tvg-logo="" group-title="地方频道", 茂名综合
 http://14.19.168.64:4022/udp/239.77.0.206:5146
 #EXTINF:-1 tvg-name="荆门新闻综合" tvg-id="荆门新闻综合" tvg-logo="https://live.fanmingming.cn/tv/荆门新闻综合.png" group-title="地方频道", 荆门新闻综合
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
-#EXTINF:-1 tvg-name="荣昌综合" tvg-id="荣昌综合" tvg-logo="" group-title="地方频道", 荣昌综合
+#EXTINF:-1 tvg-name="荣昌综合" tvg-id="荣昌综合" tvg-logo="https://live.fanmingming.cn/tv/荣昌综合.png" group-title="地方频道", 荣昌综合
 http://183.64.181.25:40023/rongchang01.m3u8
 #EXTINF:-1 tvg-name="荥阳综合" tvg-id="荥阳综合" tvg-logo="https://live.fanmingming.cn/tv/荥阳综合.png" group-title="地方频道", 荥阳综合
 http://live.dxhmt.cn:9081/tv/10182-1.m3u8
@@ -922,7 +876,7 @@ http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
 #EXTINF:-1 tvg-name="菏泽新闻综合" tvg-id="菏泽新闻综合" tvg-logo="" group-title="地方频道", 菏泽新闻综合
 http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="菏泽经济生活" tvg-id="菏泽经济生活" tvg-logo="" group-title="地方频道", 菏泽经济生活
-http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="营山电视台" tvg-id="营山电视台" tvg-logo="https://live.fanmingming.cn/tv/营山电视台.png" group-title="地方频道", 营山电视台
 http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 #EXTINF:-1 tvg-name="萧山新闻" tvg-id="萧山新闻" tvg-logo="" group-title="地方频道", 萧山新闻
@@ -935,7 +889,7 @@ http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?
 #EXTINF:-1 tvg-name="蒙自综合" tvg-id="蒙自综合" tvg-logo="" group-title="地方频道", 蒙自综合
 http://live.ynurl.com/video/s10019-mzdst/index.m3u8?zyund
-#EXTINF:-1 tvg-name="蒙语文化" tvg-id="蒙语文化" tvg-logo="" group-title="地方频道", 蒙语文化
+#EXTINF:-1 tvg-name="蒙语文化" tvg-id="蒙语文化" tvg-logo="https://live.fanmingming.cn/tv/蒙语文化.png" group-title="地方频道", 蒙语文化
 http://221.199.193.157:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-name="蓬安新闻综合" tvg-id="蓬安新闻综合" tvg-logo="" group-title="地方频道", 蓬安新闻综合
 http://palive.patv123.com:8091/live/xwpd_800K.m3u8
@@ -982,19 +936,15 @@ https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d1
 #EXTINF:-1 tvg-name="辽宁公共" tvg-id="辽宁公共" tvg-logo="" group-title="地方频道", 辽宁公共
 http://113.236.31.149:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-name="辽宁北方" tvg-id="辽宁北方" tvg-logo="https://live.fanmingming.cn/tv/辽宁北方.png" group-title="地方频道", 辽宁北方
-http://113.236.31.149:9901/tsfile/live/1018_1.m3u8
-#EXTINF:-1 tvg-name="辽宁影视" tvg-id="辽宁影视" tvg-logo="" group-title="地方频道", 辽宁影视
-http://113.236.31.149:9901/tsfile/live/1024_1.m3u8
-#EXTINF:-1 tvg-name="辽宁影视剧" tvg-id="辽宁影视剧" tvg-logo="" group-title="地方频道", 辽宁影视剧
-http://120.76.248.139/live/bfgd/4200000070.m3u8
+http://61.243.161.199:9901/tsfile/live/1018_1.m3u8
 #EXTINF:-1 tvg-name="辽宁教育青少" tvg-id="辽宁教育青少" tvg-logo="" group-title="地方频道", 辽宁教育青少
 http://120.76.248.139/live/bfgd/4200000075.m3u8
 #EXTINF:-1 tvg-name="辽宁生活" tvg-id="辽宁生活" tvg-logo="https://live.fanmingming.cn/tv/辽宁生活.png" group-title="地方频道", 辽宁生活
-http://113.236.31.149:9901/tsfile/live/1022_1.m3u8
+http://61.243.161.199:9901/tsfile/live/1022_1.m3u8
 #EXTINF:-1 tvg-name="辽宁经济" tvg-id="辽宁经济" tvg-logo="https://live.fanmingming.cn/tv/辽宁经济.png" group-title="地方频道", 辽宁经济
-http://113.236.31.149:9901/tsfile/live/1021_1.m3u8
+http://61.243.161.199:9901/tsfile/live/1021_1.m3u8
 #EXTINF:-1 tvg-name="辽宁都市" tvg-id="辽宁都市" tvg-logo="https://live.fanmingming.cn/tv/辽宁都市.png" group-title="地方频道", 辽宁都市
-http://113.236.31.149:9901/tsfile/live/1019_1.m3u8
+http://61.243.161.199:9901/tsfile/live/1019_1.m3u8
 #EXTINF:-1 tvg-name="运城新闻综合" tvg-id="运城新闻综合" tvg-logo="" group-title="地方频道", 运城新闻综合
 http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
 #EXTINF:-1 tvg-name="连云港公共" tvg-id="连云港公共" tvg-logo="https://live.fanmingming.cn/tv/连云港公共.png" group-title="地方频道", 连云港公共
@@ -1049,8 +999,6 @@ http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTEx
 https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
 #EXTINF:-1 tvg-name="长白山电视台" tvg-id="长白山电视台" tvg-logo="https://live.fanmingming.cn/tv/长白山电视台.png" group-title="地方频道", 长白山电视台
 http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
-#EXTINF:-1 tvg-name="门源综合" tvg-id="门源综合" tvg-logo="https://live.fanmingming.cn/tv/门源综合.png" group-title="地方频道", 门源综合
-http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 #EXTINF:-1 tvg-name="闻喜综合" tvg-id="闻喜综合" tvg-logo="https://live.fanmingming.cn/tv/闻喜综合.png" group-title="地方频道", 闻喜综合
 https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 #EXTINF:-1 tvg-name="阳曲综合" tvg-id="阳曲综合" tvg-logo="https://live.fanmingming.cn/tv/阳曲综合.png" group-title="地方频道", 阳曲综合
@@ -1079,14 +1027,10 @@ http://gxlive.snrtv.com/sx6-SD.m3u8
 http://gxlive.snrtv.com/sx7-SD.m3u8
 #EXTINF:-1 tvg-name="陕西公共" tvg-id="陕西公共" tvg-logo="https://live.fanmingming.cn/tv/陕西公共.png" group-title="地方频道", 陕西公共
 http://gxlive.snrtv.com/sx5-SD.m3u8
-#EXTINF:-1 tvg-name="陕西影视" tvg-id="陕西影视" tvg-logo="https://live.fanmingming.cn/tv/陕西影视.png" group-title="地方频道", 陕西影视
-http://gxlive.snrtv.com/sx4-SD.m3u8
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-id="陕西新闻资讯" tvg-logo="https://live.fanmingming.cn/tv/陕西新闻资讯.png" group-title="地方频道", 陕西新闻资讯
 http://gxlive.snrtv.com/sx1-SD.m3u8
 #EXTINF:-1 tvg-name="陕西生活" tvg-id="陕西生活" tvg-logo="https://live.fanmingming.cn/tv/陕西生活.png" group-title="地方频道", 陕西生活
 http://gxlive.snrtv.com/sx3-SD.m3u8
-#EXTINF:-1 tvg-name="陕西西部电影" tvg-id="陕西西部电影" tvg-logo="" group-title="地方频道", 陕西西部电影
-http://gxlive.snrtv.com/sx8-SD.m3u8
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-id="陕西都市青春" tvg-logo="https://live.fanmingming.cn/tv/陕西都市青春.png" group-title="地方频道", 陕西都市青春
 http://gxlive.snrtv.com/sx2-SD.m3u8
 #EXTINF:-1 tvg-name="青岛城阳" tvg-id="青岛城阳" tvg-logo="https://live.fanmingming.cn/tv/青岛城阳.png" group-title="地方频道", 青岛城阳
@@ -1111,6 +1055,8 @@ http://lmt.scqstv.com:80/live1/live1.m3u8
 http://stream8.jlntv.cn/jytv/sd/live.m3u8
 #EXTINF:-1 tvg-name="靖江新闻综合" tvg-id="靖江新闻综合" tvg-logo="https://live.fanmingming.cn/tv/靖江新闻综合.png" group-title="地方频道", 靖江新闻综合
 http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+#EXTINF:-1 tvg-name="韶关公共" tvg-id="韶关公共" tvg-logo="" group-title="地方频道", 韶关公共
+http://61.145.208.25:9090/udp/239.77.0.119:5146
 #EXTINF:-1 tvg-name="马关电视台" tvg-id="马关电视台" tvg-logo="https://live.fanmingming.com/tv/马关电视台.png" group-title="地方频道", 马关电视台
 http://live.ynurl.com/video/s10046-001/index.m3u8?zyund
 #EXTINF:-1 tvg-name="马尔康综合" tvg-id="马尔康综合" tvg-logo="" group-title="地方频道", 马尔康综合
@@ -1131,11 +1077,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江大庆新闻综合" tvg-id="黑龙江大庆新闻综合" tvg-logo="" group-title="地方频道", 黑龙江大庆新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="" group-title="地方频道", 黑龙江少儿
-http://112.101.78.50:9901/tsfile/live/1007_1.m3u8
-#EXTINF:-1 tvg-name="黑龙江影视" tvg-id="黑龙江影视" tvg-logo="" group-title="地方频道", 黑龙江影视
-http://112.101.78.50:9901/tsfile/live/1011_1.m3u8
-#EXTINF:-1 tvg-name="黑龙江文体" tvg-id="黑龙江文体" tvg-logo="" group-title="地方频道", 黑龙江文体
+#EXTINF:-1 tvg-name="黑龙江文体" tvg-id="黑龙江文体" tvg-logo="https://live.fanmingming.cn/tv/黑龙江文体.png" group-title="地方频道", 黑龙江文体
 http://112.101.78.50:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻" tvg-id="黑龙江新闻" tvg-logo="" group-title="地方频道", 黑龙江新闻
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
@@ -1143,7 +1085,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 http://123.166.61.70:8003/hls/51/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江科教" tvg-id="黑龙江科教" tvg-logo="" group-title="地方频道", 黑龙江科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江都市" tvg-id="黑龙江都市" tvg-logo="" group-title="地方频道", 黑龙江都市
+#EXTINF:-1 tvg-name="黑龙江都市" tvg-id="黑龙江都市" tvg-logo="https://live.fanmingming.cn/tv/黑龙江都市.png" group-title="地方频道", 黑龙江都市
 http://112.101.78.50:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-name="黑龙江鹤岗新闻综合" tvg-id="黑龙江鹤岗新闻综合" tvg-logo="" group-title="地方频道", 黑龙江鹤岗新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
@@ -1166,17 +1108,13 @@ http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 #EXTINF:-1 tvg-name="龙游生活娱乐" tvg-id="龙游生活娱乐" tvg-logo="https://live.fanmingming.cn/tv/龙游生活娱乐.png" group-title="地方频道", 龙游生活娱乐
 http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="电影频道", CHC动作电影
-http://117.190.144.101:1111/tsfile/live/1020_1.m3u8
+http://61.243.161.199:9901/tsfile/live/1101_1.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="电影频道", CHC家庭影院
 http://117.190.144.101:1111/tsfile/live/1018_1.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="电影频道", CHC影迷电影
-http://117.190.144.101:1111/tsfile/live/1019_1.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="电影频道", CHC动作电影
-http://117.190.144.101:1111/tsfile/live/1020_1.m3u8
+http://58.19.38.162:9901/tsfile/live/0119_1.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="电影频道", CHC家庭影院
 http://117.190.144.101:1111/tsfile/live/1018_1.m3u8
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="电影频道", CHC影迷电影
-http://117.190.144.101:1111/tsfile/live/1019_1.m3u8
 #EXTINF:-1 tvg-name="CHC电影" tvg-id="CHC电影" tvg-logo="https://live.fanmingming.cn/tv/CHC高清电影.png" group-title="电影频道", CHC电影
 http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="数字频道",山东教育
