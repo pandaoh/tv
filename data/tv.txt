@@ -63,13 +63,13 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 山东教育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227022/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EMkWp5fwJWRSC2qPwffoOzQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 广东珠江,http://mzitv.cn:32/tsfile/live/1006_1.m3u8
 延边卫视,https://live.ybtvyun.com/video/s10006-2f92b9e0b123/index.m3u8
-大湾区卫视,http://mzitv.cn:32/tsfile/live/1012_1.m3u8
+大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
 山东教育,http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 优漫卡通,http://110.53.218.182:9902/tsfile/live/1006_1.m3u8
 哈哈炫动,http://61.138.128.226:19901/tsfile/live/1016_1.m3u8
 广东珠江,http://mzitv.cn:32/tsfile/live/1006_1.m3u8
 延边卫视,https://live.ybtvyun.com/video/s10006-2f92b9e0b123/index.m3u8
-大湾区卫视,http://mzitv.cn:32/tsfile/live/1012_1.m3u8
+大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
 内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
 优漫卡通,http://110.53.218.182:9902/tsfile/live/1006_1.m3u8
 哈哈炫动,http://61.138.128.226:19901/tsfile/live/1016_1.m3u8
@@ -84,7 +84,7 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 万荣综合,http://60.222.246.220:19433/hls1.m3u8
 万载综合,http://ls.qingting.fm/live/273.m3u8
 上海纪实,http://wouu.net:9977/udp/239.93.1.137:5140
-上海都市,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A62115/itv/5000000010000018926.m3u8%3Fcdn%3Dbestzb
+上海都市,http://livetv.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
 上虞文化,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed?
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
@@ -198,7 +198,6 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 屏边综合,http://live.ynurl.com/video/s10040-pbzh/index.m3u8?zyund
 山东体育,http://58.57.40.22:9901/tsfile/live/1020_1.m3u8
 山东农科,http://58.57.40.22:9901/tsfile/live/1022_1.m3u8
-山东国际,http://221.0.78.198:1681/hls/10228/index.m3u8
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 山东新闻,http://58.57.40.22:9901/tsfile/live/1019_1.m3u8
 山东生活,http://58.57.40.22:9901/tsfile/live/1018_1.m3u8
@@ -216,7 +215,6 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 平湖新闻,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed?
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 平远综合,http://1b6467f415.iok.la:9931/tsfile/live/1097_1.m3u8
-平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 广东新闻,http://mzitv.cn:32/tsfile/live/1007_1.m3u8
 广东民生,http://mzitv.cn:32/tsfile/live/1009_1.m3u8
 广元公共,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
@@ -224,7 +222,7 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 广南电视台,http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8?zyund
 广安公共,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 广州南国都市频道,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
-广州新闻,http://14.112.86.85:4022/udp/239.253.43.72:5146
+广州新闻,http://qjrhc.jydjd.top:2911/udp/224.1.100.38:11111
 广州电视台新闻频道,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
 广州电视台法治频道,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6
 广州电视台综合频道,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
@@ -288,8 +286,8 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
 永城综合,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
-汕头文旅,http://14.112.86.85:4022/udp/239.77.1.132:5146
-汕头综合,http://14.112.86.85:4022/udp/239.253.43.45:5146
+汕头文旅,http://14.112.86.85:4022/udp/239.253.43.47:5146
+汕头综合,http://14.112.86.85:4022/udp/239.77.1.130:5146
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 江宁电视台综合,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 江川综合,http://live.ynurl.com/video/s10037-JCTV/index.m3u8?zyund
@@ -314,14 +312,13 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 济南娱乐,http://221.0.78.198:1681/hls/10283/index.m3u8
-济南教育,http://221.0.78.198:1681/hls/10286/index.m3u8
 济南新闻综合,http://221.0.78.198:1681/hls/10279/index.m3u8
 济南生活,http://221.0.78.198:1681/hls/10281/index.m3u8
 济南都市,http://221.0.78.198:1681/hls/10280/index.m3u8
 济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 济宁教育,http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
 济宁新闻综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
-济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8?shandd
+济宁综合,http://111.14.181.15:9901/tsfile/live/1007_1.m3u8
 济源电视一套,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -372,7 +369,7 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
 珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 瑞丽综合,http://live.ynurl.com/video/s10021-rltv/index.m3u8?zyund
-璧山综合,http://222.179.42.129:8181/hls1.m3u8
+璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 甘南综合,http://pili-live-hls.hfmt.net/gntv/gnhytv.m3u8?zgand
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 生活时尚,http://221.0.78.198:1681/hls/10275/index.m3u8
@@ -383,11 +380,8 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 砚山电视台,http://live.ynurl.com/video/s10020-ystv/index.m3u8?zyund
 碌曲综合,http://pili-live-hls.hfmt.net/gntv/lqtv.m3u8?zgand
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-福州综合,http://117.27.190.42:9998/tsfile/live/23301_1.m3u8
-福建公共,http://117.27.190.42:9998/tsfile/live/23285_1.m3u8?key=txiptv&playlive=1&authid=0
+福州综合,http://117.27.190.42:9998/tsfile/live/23301_1.m3u8?key=txiptv&playlive=1&authid=0
 福建新闻,http://110.80.17.38:9901/tsfile/live/0122_1.m3u8
-福建电视剧,http://117.27.190.42:9998/tsfile/live/23287_1.m3u8?key=txiptv&playlive=1&authid=0
-福建综合,http://117.27.190.42:9998/tsfile/live/23284_1.m3u8?key=txiptv&playlive=1&authid=0
 禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
 绍兴文化,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed?
 绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
@@ -407,8 +401,8 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 茂名公共,http://14.112.86.85:4022/udp/239.77.0.207:5146
+茂名综合,http://14.112.86.85:4022/udp/239.77.0.206:5146
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 荥阳综合,http://live.dxhmt.cn:9081/tv/10182-1.m3u8
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 萧山新闻,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed?
@@ -459,7 +453,6 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 金川综合,https://play.kankanlive.com/live/1625041962958919.m3u8?zgand
 金平综合,http://live.ynurl.com/video/s10041-JPTV/index.m3u8?zyund
 钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
-铜梁综合,http://183.64.174.171:40123/ch1.m3u8
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 长宁综合,http://cnpull.sccnfb.com:80/live/123456.m3u8
 长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
@@ -481,7 +474,7 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 青神综合,http://lmt.scqstv.com:80/live1/live1.m3u8
 靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
 靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
-韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
+韶关公共,http://14.112.86.85:4022/udp/239.77.0.119:5146
 马关电视台,http://live.ynurl.com/video/s10046-001/index.m3u8?zyund
 马尔康综合,http://live.zmmek.com:90/live/zhxw.m3u8
 高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8
@@ -493,7 +486,6 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 黑龙江都市,http://112.101.78.50:9901/tsfile/live/1005_1.m3u8
 龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
 龙岩新闻综合,https://fanmingming.com/fm?id=962
-龙岩综合,http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0
 龙泉新闻,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed?
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 龙泉驿新闻综合,https://live-pull.newslqy.com/live/fmzb1682404988829.m3u8
