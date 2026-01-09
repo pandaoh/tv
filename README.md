@@ -1,24 +1,9 @@
-# TV
+# TV Channel List
 
-> [自制 TV](https://github.com/fanmingming/live)
+## Last Updated
+2026-01-09 08:57:27 UTC
 
----
+Run ID: 20846559953
+Job Start Time: 2026-01-09 08:57:27
 
-* 安卓 app 分支下载：DIYP影音、百川影音、IPTVPro
-* IOS app 分支下载：ntPlayer、APTV、zFuse
-* PC app 分支下载：PotPlayer、黑鸟播放器、Kodi(全平台通用)
-
----
-
-* EPG-`http://diyp.top/diyp/epg.php`、`http://diyp.112114.xyz/`、`https://epg.112114.xyz/`
-* EPG.XML-`https://live.fanmingming.com/e.xml`
-* m3u-`https://live.fanmingming.com/tv/m3u/global.m3u`
-* txt-`https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/global.m3u`
-* Bing每日一图-`https://fanmingming.com/bing`
-* 参考地址-`https://live.fanmingming.com/`
-
----
-
-***仅供学习交流使用-禁止在中国大陆传播***
-
-* `https://github.com/iptv-org`
+Automatically updated by GitHub Actions.
